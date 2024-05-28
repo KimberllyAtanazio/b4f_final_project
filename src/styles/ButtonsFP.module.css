@@ -1,0 +1,44 @@
+.loginPage {
+  background-image: url('/background-login.png');
+  background-size: cover;
+  background-position: center;
+  width: 430px;
+  height: 932px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+  margin: 0 auto;
+}
+
+.logoImage {
+  margin: 40px;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: column;
+}
+
+.loginButton, .registerButton {
+  width: 325px;
+  height: 56px;
+  padding: 10px;
+  margin-top: 10px;
+  border: none;
+  border-radius: 16px;
+  color: #3C1E42;
+  font-family: 'Inter', sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  cursor: pointer;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.4);
+}
+
+.loginButton {
+  background-color: #FFF0F0;
+}
+
+.registerButton {
+  background-color: #FFB235;
+}

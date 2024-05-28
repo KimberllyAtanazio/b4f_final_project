@@ -1,0 +1,99 @@
+.mainDiv {
+
+  background-color: #fff0f0;
+  width: 430px;
+  height: 403px;
+
+  border-bottom-left-radius: 40px;
+  border-bottom-right-radius: 40px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.profileData {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.profilePic {
+  background-color: blue;
+  width: 90px;
+  height: 90px;
+  border-radius: 100%;
+}
+
+.profileName {
+  font-size: 24px;
+  color: #3c1e42;
+}
+
+.profileInfo {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: #f7f7f9;
+  width: 330px;
+  height: 78px;
+  margin-top: 46px;
+  margin-left: 50px;
+  margin-right: 50px;
+  border-radius: 16px;
+  padding: 16px;
+}
+
+.rewardPoints, .travelTrips, .bucketList{
+  color: #3c1e42;
+  margin-left: 16px;
+  margin-right: 16px;
+  margin-bottom: 16px;
+}
+
+.bookmarkedDiv {
+  display: flex;
+  font-size: 16px;
+  background-color: #f7f7f9;
+  width: 334px;
+  height: 63px;
+  justify-content: left;
+  align-items: center;
+  padding: 10px;
+  margin-top: 20px;
+  margin-left: 45px;
+  margin-right: 45px;
+}
+
+.icon {
+  margin-left: 9px;
+  margin-right: 9px;
+}
+
+.tripsDiv {
+  display: flex;
+  font-size: 16px;
+  background-color: #f7f7f9;
+  width: 334px;
+  height: 63px;
+  justify-content: left;
+  align-items: center;
+  padding: 10px;
+  margin-left: 45px;
+  margin-right: 45px;
+}
+
+.settingsDiv {
+  display: flex;
+  font-size: 16px;
+  background-color: #f7f7f9;
+  width: 334px;
+  height: 63px;
+  justify-content: left;
+  align-items: center;
+  padding: 10px;
+  margin-left: 45px;
+  margin-right: 45px;
+}

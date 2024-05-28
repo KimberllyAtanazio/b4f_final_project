@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@400;700&display=swap');
+
+:root {
+  --primary-color: #FFB235;
+  --sc-color: #3C1E42;
+  --card-color: #FFF0F0;
+  --title-color: #3C1E42;
+  --text-color: #1B1E28;
+  --text-link-color: #A354B1;
+  --btn-color: #FFB235;
+  --sc-btn-color: #3C1E42;
+
+  height: 100vh;
+  font-size: 62.5%;
+}
