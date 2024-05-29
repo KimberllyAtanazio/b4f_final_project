@@ -1,0 +1,2061 @@
+  [
+    {
+      "title": "Germany",
+      "imageName": "germany.jpg",
+      "continent": "Europe",
+      "about": "Germany is a country in Central Europe known for its rich history, cultural heritage, and economic strength. It is the most populous member state of the European Union and has a significant global influence. Germany offers a high standard of living, excellent healthcare, and education systems. The country is famous for its contributions to art, philosophy, music, and science. Major cities like Berlin, Munich, and Hamburg are renowned for their vibrant cultural scenes and historical landmarks.",
+      "curiosities": [
+        {
+          "topic": "Dress Code",
+          "description": "Women can dress as they please in Germany without any significant restrictions. The country is known for its liberal and open-minded attitude towards personal expression."
+        },
+        {
+          "topic": "Safety at Night",
+          "description": "Germany is generally safe for women to walk around at night, especially in urban areas. However, it's always advisable to take standard precautions."
+        },
+        {
+          "topic": "LGBT Safety",
+          "description": "Germany is considered safe for women from the LGBT community. It has progressive laws and a vibrant LGBT scene, particularly in cities like Berlin and Cologne."
+        },
+        {
+          "topic": "Public Transportation",
+          "description": "Germany has an efficient and extensive public transportation system, including trains, buses, and trams, which are generally safe to use at all times."
+        },
+        {
+          "topic": "Healthcare System",
+          "description": "Germany offers high-quality healthcare services that are accessible to both residents and visitors. The country is known for its excellent medical facilities."
+        }
+      ],
+      "must_visit_places": [
+        "Brandenburg Gate",
+        "Neuschwanstein Castle",
+        "Cologne Cathedral",
+        "Black Forest",
+        "Museum Island"
+      ],
+      "tags": [
+        "rich history",
+        "cultural heritage",
+        "high standard of living",
+        "vibrant cultural scenes",
+        "public transportation"
+      ]
+    },
+
+    {
+      "title": "Brazil",
+      "imageName": "brasil.jpg",
+      "continent": "South America",
+      "about": "Brazil is the largest country in South America, known for its vibrant culture, diverse landscapes, and Amazon rainforest. The country boasts beautiful beaches, bustling cities like Rio de Janeiro and São Paulo, and iconic landmarks like the Christ the Redeemer statue. Brazil has a rich cultural heritage, with influences from indigenous, African, and European traditions.",
+      "curiosities": [
+        {
+          "topic": "Dress Code",
+          "description": "Brazil is known for its relaxed dress code, especially in coastal areas. Lightweight, casual clothing is suitable for most occasions."
+        },
+        {
+          "topic": "Safety at Night",
+          "description": "In urban areas, it's advisable to take precautions at night, such as avoiding poorly lit areas and taking licensed taxis."
+        },
+        {
+          "topic": "LGBT Safety",
+          "description": "Brazil has made progress in LGBT rights, especially in larger cities like São Paulo and Rio de Janeiro. However, caution is still advised in some areas."
+        },
+        {
+          "topic": "Public Transportation",
+          "description": "Brazil has a varied public transportation system, including buses, metros, and trains, which are generally safe during the day."
+        },
+        {
+          "topic": "Healthcare System",
+          "description": "Brazil offers both public and private healthcare services, with major cities having hospitals and clinics offering good medical care."
+        }
+      ],
+      "must_visit_places": [
+        "Christ the Redeemer, Rio de Janeiro",
+        "Iguazu Falls",
+        "Copacabana Beach, Rio de Janeiro",
+        "Amazon Rainforest",
+        "Pelourinho, Salvador"
+      ],
+      "tags": [
+        "vibrant culture",
+        "diverse landscapes",
+        "Amazon rainforest",
+        "urban attractions",
+        "rich cultural heritage"
+      ]
+    },
+    {
+      "title": "Portugal",
+      "imageName": "portugal.jpg",
+      "continent": "Europe",
+      "about": "Portugal is a country located on the Iberian Peninsula in Southern Europe known for its rich history, stunning coastline, and vibrant culture. From the historic neighborhoods of Lisbon to the vineyard-covered hills of the Douro Valley, Portugal offers travelers a diverse range of experiences. The country is also celebrated for its delicious cuisine, world-renowned wines, and warm hospitality.",
+      "curiosities": [
+        {
+          "topic": "Dress Code",
+          "description": "Portugal has a casual dress code, with comfortable and weather-appropriate clothing being the norm. In urban areas like Lisbon and Porto, smart casual attire is common, while beachwear is suitable for coastal destinations."
+        },
+        {
+          "topic": "Safety at Night",
+          "description": "Portugal is generally safe at night, with low crime rates and well-lit streets in urban areas. However, travelers should take common-sense precautions, especially in tourist areas and nightlife districts."
+        },
+        {
+          "topic": "LGBT Safety",
+          "description": "Portugal is known for its progressive attitudes towards the LGBT community, with strong legal protections and a welcoming atmosphere. Cities like Lisbon and Porto have vibrant LGBT scenes and inclusive communities."
+        },
+        {
+          "topic": "Public Transportation",
+          "description": "Portugal has an extensive public transportation network, including trains, buses, trams, and metros. The country's train system connects major cities and regions, while buses and trams are convenient for local travel."
+        },
+        {
+          "topic": "Healthcare System",
+          "description": "Portugal has a universal healthcare system that provides medical services to residents and visitors alike. The country is known for its modern hospitals, well-trained medical professionals, and affordable healthcare costs."
+        }
+      ],
+      "must_visit_places": [
+        "Lisbon",
+        "Porto",
+        "Algarve Coast",
+        "Sintra",
+        "Douro Valley"
+      ],
+      "tags": [
+        "rich history",
+        "stunning coastline",
+        "vibrant culture",
+        "delicious cuisine",
+        "world-renowned wines"
+      ]
+    },
+    {
+      "title": "Morocco",
+      "imageName": "marrocos.jpg",
+      "continent": "África",
+      "about": "Morocco is a North African country known for its vibrant culture, stunning architecture, and diverse landscapes. From the bustling medinas of Marrakech and Fez to the serene beaches of Essaouira and Agadir, Morocco offers travelers a sensory feast. The country is also celebrated for its delicious cuisine, ancient traditions, and warm hospitality.",
+      "curiosities": [
+        {
+          "topic": "Dress Code",
+          "description": "Morocco has a conservative dress code, especially in rural areas and religious sites. Travelers are advised to dress modestly, covering shoulders and knees, to show respect for local customs and traditions."
+        },
+        {
+          "topic": "Safety at Night",
+          "description": "Morocco is generally safe at night, with a strong police presence in tourist areas. However, travelers should exercise caution, especially in crowded places and markets where pickpocketing can occur."
+        },
+        {
+          "topic": "LGBT Safety",
+          "description": "Attitudes towards the LGBT community in Morocco are conservative, and same-sex relationships are not widely accepted. LGBT travelers should exercise discretion and avoid public displays of affection."
+        },
+        {
+          "topic": "Public Transportation",
+          "description": "Morocco has a well-developed transportation network, including trains, buses, and taxis, making it easy to travel between cities and explore the countryside. Grand taxis and shared taxis are common for longer journeys."
+        },
+        {
+          "topic": "Healthcare System",
+          "description": "Morocco has both public and private healthcare facilities, with major cities having modern hospitals and clinics. However, medical facilities in rural areas may be limited, so travelers should have comprehensive travel insurance."
+        }
+      ],
+      "must_visit_places": [
+        "Marrakech",
+        "Fes",
+        "Chefchaouen",
+        "Sahara Desert",
+        "Essaouira"
+      ],
+      "tags": [
+        "vibrant culture",
+        "stunning architecture",
+        "diverse landscapes",
+        "delicious cuisine",
+        "ancient traditions"
+      ]
+    },
+    {
+      "title": "Australia",
+      "imageName": "australia.jpg",
+      "continent": "Australia",
+      "about": "Australia is a country and continent surrounded by the Indian and Pacific oceans. Known for its diverse landscapes, ranging from beaches to deserts, and vibrant cities like Sydney, Melbourne, and Brisbane. Australia boasts a high standard of living, excellent healthcare, and a multicultural society. The country is famous for its unique wildlife, the Great Barrier Reef, and its indigenous heritage.",
+      "curiosities": [
+        {
+          "topic": "Dress Code",
+          "description": "Women can dress freely in Australia without significant restrictions. The country is known for its casual and open-minded approach to personal expression."
+        },
+        {
+          "topic": "Safety at Night",
+          "description": "Australia is generally safe for women to walk around at night, especially in urban areas. However, it's always advisable to take standard precautions."
+        },
+        {
+          "topic": "LGBT Safety",
+          "description": "Australia is considered safe for women from the LGBT community. It has progressive laws and a vibrant LGBT scene, particularly in cities like Sydney and Melbourne."
+        },
+        {
+          "topic": "Public Transportation",
+          "description": "Australia has a reliable and extensive public transportation system, including trains, buses, and trams, which are generally safe to use at all times."
+        },
+        {
+          "topic": "Healthcare System",
+          "description": "Australia offers high-quality healthcare services that are accessible to both residents and visitors. The country is known for its excellent medical facilities."
+        }
+      ],
+      "must_visit_places": [
+        "Sydney Opera House",
+        "Great Barrier Reef",
+        "Uluru",
+        "Bondi Beach",
+        "Great Ocean Road"
+      ],
+      "tags": [
+        "diverse landscapes",
+        "vibrant cities",
+        "high standard of living",
+        "unique wildlife",
+        "multicultural society"
+      ]
+    },
+    {
+      "title": "Austria",
+      "imageName": "austria.jpg",
+      "continent": "Europe",
+      "about": "Austria is a landlocked country in Central Europe known for its rich cultural history, stunning alpine landscapes, and vibrant cities like Vienna and Salzburg. The country offers a high standard of living, excellent healthcare, and a strong focus on arts and music. Austria is famous for its historical architecture, classical music heritage, and outdoor recreational activities.",
+      "curiosities": [
+        {
+          "topic": "Dress Code",
+          "description": "Women can dress as they please in Austria without significant restrictions. The country has a liberal attitude towards personal expression and fashion."
+        },
+        {
+          "topic": "Safety at Night",
+          "description": "Austria is generally safe for women to walk around at night, especially in urban areas. Standard precautions are still advisable."
+        },
+        {
+          "topic": "LGBT Safety",
+          "description": "Austria is considered safe for women from the LGBT community. It has progressive laws and a welcoming atmosphere, particularly in cities like Vienna."
+        },
+        {
+          "topic": "Public Transportation",
+          "description": "Austria has a reliable and efficient public transportation system, including trains, buses, and trams, which are safe and widely used."
+        },
+        {
+          "topic": "Healthcare System",
+          "description": "Austria offers high-quality healthcare services accessible to both residents and visitors. The country is known for its excellent medical care."
+        }
+      ],
+      "must_visit_places": [
+        "Schonbrunn Palace",
+        "Hallstatt",
+        "Salzburg's Old Town",
+        "Hofburg Palace",
+        "St. Stephen's Cathedral"
+      ],
+      "tags": [
+        "rich cultural history",
+        "stunning alpine landscapes",
+        "vibrant cities",
+        "historical architecture",
+        "classical music"
+      ]
+    },
+    {
+      "title": "Belgium",
+      "imageName": "belgica.jpg",
+      "continent": "Europe",
+      "about": "Belgium is a small country in Western Europe known for its medieval towns, Renaissance architecture, and delicious cuisine, including chocolate and waffles. The country's capital, Brussels, is home to the headquarters of the European Union and NATO. Belgium offers a high standard of living, excellent healthcare, and a rich cultural heritage.",
+      "curiosities": [
+        {
+          "topic": "Dress Code",
+          "description": "Women can dress as they please in Belgium without significant restrictions. The country celebrates diversity and allows for broad personal expression in fashion."
+        },
+        {
+          "topic": "Safety at Night",
+          "description": "Belgium is generally safe for women to walk around at night, especially in urban areas. Standard precautions are advisable."
+        },
+        {
+          "topic": "LGBT Safety",
+          "description": "Belgium is considered safe for women from the LGBT community. It has progressive laws and a welcoming atmosphere, particularly in cities like Brussels and Antwerp."
+        },
+        {
+          "topic": "Public Transportation",
+          "description": "Belgium has a reliable and efficient public transportation system, including trains, buses, and trams, which are safe and widely used."
+        },
+        {
+          "topic": "Healthcare System",
+          "description": "Belgium offers high-quality healthcare services accessible to both residents and visitors. The country is known for its excellent medical facilities."
+        }
+      ],
+      "must_visit_places": [
+        "Grand Place, Brussels",
+        "Bruges Historic Center",
+        "Antwerp Central Station",
+        "Ghent's Gravensteen Castle",
+        "Atomium, Brussels"
+      ],
+      "tags": [
+        "medieval towns",
+        "Renaissance architecture",
+        "delicious cuisine",
+        "high standard of living",
+        "rich cultural heritage"
+      ]
+    },
+    {
+      "title": "Bhutan",
+      "imageName": "butao.jpg",
+      "continent": "Asia",
+      "about": "Bhutan, known as the Land of the Thunder Dragon, is a small Himalayan kingdom nestled between India and China. It is renowned for its stunning landscapes, ancient monasteries, and unique cultural heritage. Bhutan follows a policy of Gross National Happiness, prioritizing the well-being and happiness of its citizens over material wealth. The country offers travelers a chance to experience traditional Bhutanese culture and explore its pristine natural beauty.",
+      "curiosities": [
+        {
+          "topic": "Dress Code",
+          "description": "Bhutan has a national dress code, and traditional attire is commonly worn by the locals. Visitors are encouraged to respect local customs and may also choose to wear traditional Bhutanese clothing."
+        },
+        {
+          "topic": "Safety at Night",
+          "description": "Bhutan is generally safe at night, with low crime rates. However, travelers should exercise caution, especially in remote areas or when venturing into the wilderness."
+        },
+        {
+          "topic": "LGBT Safety",
+          "description": "Bhutan is a conservative country, and LGBT rights are not widely recognized. LGBT travelers should be discreet and respectful of local customs and attitudes."
+        },
+        {
+          "topic": "Public Transportation",
+          "description": "Bhutan has limited public transportation options, with most travelers relying on taxis or hiring private vehicles for transportation. Roads can be narrow and winding, requiring careful driving."
+        },
+        {
+          "topic": "Healthcare System",
+          "description": "Bhutan's healthcare system is improving but may not meet Western standards in remote areas. Travelers should have comprehensive travel insurance and be prepared for potential medical emergencies."
+        }
+      ],
+      "must_visit_places": [
+        "Tiger's Nest Monastery",
+        "Punakha Dzong",
+        "Paro Valley",
+        "Thimphu",
+        "Phobjikha Valley"
+      ],
+      "tags": [
+        "stunning landscapes",
+        "ancient monasteries",
+        "cultural heritage",
+        "Gross National Happiness",
+        "traditional attire"
+      ]
+    },
+    {
+      "title": "Canada",
+      "imageName": "canada.jpg",
+      "continent": "North America",
+      "about": "Canada is a vast country known for its stunning natural landscapes, multicultural cities, and friendly people. It is the second-largest country in the world by land area, offering diverse experiences from the rugged beauty of the Rocky Mountains to the cosmopolitan vibe of cities like Toronto and Vancouver. Canada is renowned for its high quality of life, excellent healthcare, and progressive values.",
+      "curiosities": [
+        {
+          "topic": "Dress Code",
+          "description": "Canada has a relaxed dress code, with casual clothing being widely accepted. In colder regions, warm layers are essential, while in urban areas, stylish attire is common."
+        },
+        {
+          "topic": "Safety at Night",
+          "description": "Canada is generally safe at night, with low crime rates in most cities. However, it's always wise to take standard precautions, especially in unfamiliar areas."
+        },
+        {
+          "topic": "LGBT Safety",
+          "description": "Canada is known for its progressive stance on LGBT rights, with same-sex marriage legal nationwide since 2005. Major cities like Toronto and Vancouver have vibrant LGBT communities."
+        },
+        {
+          "topic": "Public Transportation",
+          "description": "Canada's major cities have efficient public transportation systems, including buses, subways, and light rail. Taxis and ride-sharing services are also readily available."
+        },
+        {
+          "topic": "Healthcare System",
+          "description": "Canada has a publicly funded healthcare system that provides essential medical services to residents. Visitors should have travel insurance to cover any medical expenses."
+        }
+      ],
+      "must_visit_places": [
+        "Banff National Park",
+        "Niagara Falls",
+        "Old Quebec City",
+        "Vancouver Island",
+        "CN Tower, Toronto"
+      ],
+      "tags": [
+        "stunning natural landscapes",
+        "multicultural cities",
+        "high quality of life",
+        "progressive values",
+        "LGBT friendly"
+      ]
+    },
+    {
+      "title": "Chile",
+      "imageName": "chile.jpg",
+      "continent": "South America",
+      "about": "Chile is a long, narrow country stretching along the western edge of South America, known for its diverse landscapes, including the Atacama Desert, Andes Mountains, and coastal regions. The country is famous for its wine production, vibrant culture, and rich history. Santiago, the capital city, offers a mix of modern and colonial architecture, while Patagonia beckons with its pristine wilderness.",
+      "curiosities": [
+        {
+          "topic": "Dress Code",
+          "description": "Chileans have a relaxed dress code, with casual attire being common in most situations. However, in upscale restaurants and events, smart casual or formal wear may be more appropriate."
+        },
+        {
+          "topic": "Safety at Night",
+          "description": "Chile is generally safe at night, with low crime rates in most areas. However, it's advisable to take precautions, especially in urban areas known for petty crimes."
+        },
+        {
+          "topic": "LGBT Safety",
+          "description": "Chile has made progress in LGBT rights, with same-sex civil unions legalized in 2015. Santiago and Valparaíso are known for their LGBT-friendly neighborhoods and nightlife."
+        },
+        {
+          "topic": "Public Transportation",
+          "description": "Chile has an extensive public transportation network, including buses and metro systems in major cities like Santiago. Taxis and ride-sharing services are also widely available."
+        },
+        {
+          "topic": "Healthcare System",
+          "description": "Chile has a mixed public-private healthcare system, with both options available to residents and visitors. Medical facilities in urban areas are generally well-equipped, but comprehensive travel insurance is recommended."
+        }
+      ],
+      "must_visit_places": [
+        "Torres del Paine National Park",
+        "Valparaiso",
+        "Atacama Desert",
+        "Easter Island",
+        "Lake District"
+      ],
+      "tags": [
+        "diverse landscapes",
+        "vibrant culture",
+        "wine production",
+        "rich history",
+        "pristine wilderness"
+      ]
+    },
+    {
+      "title": "Colombia",
+      "imageName": "colombia.jpg",
+      "continent": "South America",
+      "about": "Colombia is a country located in the northwest corner of South America, known for its rich biodiversity, diverse culture, and colonial architecture. The country offers a wide range of experiences, from exploring the Amazon rainforest to discovering the vibrant street art scene in cities like Bogotá and Medellín. Colombia's warm climate, friendly people, and delicious cuisine make it a popular destination for travelers.",
+      "curiosities": [
+        {
+          "topic": "Dress Code",
+          "description": "Colombians have a diverse dress code, with casual attire being acceptable in most situations. However, in upscale restaurants and events, smart casual or formal wear may be more appropriate."
+        },
+        {
+          "topic": "Safety at Night",
+          "description": "Colombia has made significant strides in improving safety in recent years, but some areas may still have higher crime rates. It's advisable to take precautions, especially in urban areas known for petty crimes."
+        },
+        {
+          "topic": "LGBT Safety",
+          "description": "Colombia has made progress in LGBT rights, with same-sex marriage legalized in 2016. Bogotá and Medellín are known for their LGBT-friendly neighborhoods and nightlife."
+        },
+        {
+          "topic": "Public Transportation",
+          "description": "Colombia has an extensive public transportation network, including buses and metro systems in major cities like Bogotá and Medellín. Taxis and ride-sharing services are also readily available."
+        },
+        {
+          "topic": "Healthcare System",
+          "description": "Colombia has both public and private healthcare options, with major cities having well-equipped hospitals and clinics. Travelers should have travel insurance to cover any medical expenses."
+        }
+      ],
+      "must_visit_places": [
+        "Cartagena's Old Town",
+        "Tayrona National Park",
+        "Medellín's Comuna 13",
+        "Coffee Triangle",
+        "Lost City (Ciudad Perdida)"
+      ],
+      "tags": [
+        "rich biodiversity",
+        "diverse culture",
+        "colonial architecture",
+        "vibrant street art",
+        "warm climate"
+      ]
+    },
+    {
+      "title": "South Korea",
+      "imageName": "coreia-do-sul.jpg",
+      "continent": "Asia",
+      "about": "South Korea is a dynamic country in East Asia known for its modern cities, rich cultural heritage, and technological advancements. From the bustling streets of Seoul to the serene temples of Gyeongju, South Korea offers a unique blend of tradition and innovation. The country is also famous for its delicious cuisine, including dishes like kimchi and bibimbap, as well as its vibrant pop culture, including K-pop and Korean dramas.",
+      "curiosities": [
+        {
+          "topic": "Dress Code",
+          "description": "South Korea has a diverse dress code, ranging from trendy street fashion in Seoul to traditional hanbok attire for special occasions. Visitors are encouraged to respect local customs and dress modestly when visiting temples or other cultural sites."
+        },
+        {
+          "topic": "Safety at Night",
+          "description": "South Korea is generally safe at night, with low crime rates in most areas. However, it's advisable to take precautions, especially in crowded nightlife districts."
+        },
+        {
+          "topic": "LGBT Safety",
+          "description": "South Korea's attitudes towards the LGBT community are evolving, but discrimination still exists, and same-sex marriage is not yet legal. LGBT travelers should exercise discretion and be aware of local attitudes."
+        },
+        {
+          "topic": "Public Transportation",
+          "description": "South Korea has a highly efficient public transportation system, including subways, buses, and high-speed trains, making it easy to travel between cities and explore local attractions."
+        },
+        {
+          "topic": "Healthcare System",
+          "description": "South Korea has a world-class healthcare system with modern facilities and highly trained medical professionals. Foreigners can also access healthcare services, but comprehensive travel insurance is recommended."
+        }
+      ],
+      "must_visit_places": [
+        "Gyeongbokgung Palace, Seoul",
+        "Bukchon Hanok Village, Seoul",
+        "Jeju Island",
+        "Seoraksan National Park",
+        "Gyeongju Historic Areas"
+      ],
+      "tags": [
+        "modern cities",
+        "rich cultural heritage",
+        "technological advancements",
+        "delicious cuisine",
+        "vibrant pop culture"
+      ]
+    },
+    {
+      "title": "Costa Rica",
+      "imageName": "costa-rica.jpg",
+      "continent": "North America",
+      "about": "Costa Rica is a small country in Central America known for its rich biodiversity, stunning natural landscapes, and commitment to sustainability. From lush rainforests to pristine beaches and active volcanoes, Costa Rica offers travelers a chance to immerse themselves in nature's beauty. The country is also a haven for adventure seekers, with opportunities for surfing, zip-lining, and wildlife spotting.",
+      "curiosities": [
+        {
+          "topic": "Dress Code",
+          "description": "Costa Rica has a relaxed dress code, with casual clothing being suitable for most occasions. Lightweight and breathable fabrics are recommended, especially in warmer regions."
+        },
+        {
+          "topic": "Safety at Night",
+          "description": "Costa Rica is relatively safe at night, but travelers should still exercise caution, especially in urban areas and tourist hotspots where petty crimes can occur."
+        },
+        {
+          "topic": "LGBT Safety",
+          "description": "Costa Rica is considered one of the most LGBT-friendly countries in Central America, with anti-discrimination laws and a growing LGBT community, particularly in cities like San José and Manuel Antonio."
+        },
+        {
+          "topic": "Public Transportation",
+          "description": "Costa Rica has a limited public transportation system, with buses being the most common mode of transport. Taxis and rental cars are also available for getting around, especially in tourist areas."
+        },
+        {
+          "topic": "Healthcare System",
+          "description": "Costa Rica has both public and private healthcare options, with major cities having well-equipped hospitals and clinics. Travelers should have travel insurance to cover any medical expenses."
+        }
+      ],
+      "must_visit_places": [
+        "Arenal Volcano National Park",
+        "Monteverde Cloud Forest Reserve",
+        "Manuel Antonio National Park",
+        "Tortuguero National Park",
+        "Corcovado National Park"
+      ],
+      "tags": [
+        "rich biodiversity",
+        "stunning natural landscapes",
+        "sustainability",
+        "adventure travel",
+        "LGBT friendly"
+      ]
+    },
+    {
+      "title": "Croatia",
+      "imageName": "croacia.jpg",
+      "continent": "Europe",
+      "about": "Croatia is a country in Southeast Europe known for its stunning coastline, historic cities, and beautiful islands. From the medieval charm of Dubrovnik to the vibrant nightlife of Split, Croatia offers a diverse range of experiences for travelers. The country is also renowned for its delicious cuisine, rich cultural heritage, and outdoor recreational activities.",
+      "curiosities": [
+        {
+          "topic": "Dress Code",
+          "description": "Croatia has a relaxed dress code, with casual attire being suitable for most occasions. However, in upscale restaurants and events, smart casual or formal wear may be more appropriate."
+        },
+        {
+          "topic": "Safety at Night",
+          "description": "Croatia is generally safe at night, with low crime rates in most areas. However, travelers should still exercise caution, especially in tourist areas where pickpocketing can occur."
+        },
+        {
+          "topic": "LGBT Safety",
+          "description": "Croatia has made progress in LGBT rights, with discrimination based on sexual orientation being illegal. Major cities like Zagreb and Split have vibrant LGBT communities and nightlife."
+        },
+        {
+          "topic": "Public Transportation",
+          "description": "Croatia has a well-developed public transportation system, including buses, ferries, and trains, making it easy to travel between cities and explore the coast. Taxis and rental cars are also available."
+        },
+        {
+          "topic": "Healthcare System",
+          "description": "Croatia has a universal healthcare system that provides medical services to residents and visitors alike. Medical facilities are generally of a high standard, especially in urban areas."
+        }
+      ],
+      "must_visit_places": [
+        "Dubrovnik Old Town",
+        "Plitvice Lakes National Park",
+        "Hvar Island",
+        "Diocletian's Palace, Split",
+        "Rovinj"
+      ],
+      "tags": [
+        "stunning coastline",
+        "historic cities",
+        "beautiful islands",
+        "delicious cuisine",
+        "rich cultural heritage"
+      ]
+    },
+    {
+      "title": "Cuba",
+      "imageName": "cuba.jpg",
+      "continent": "North America",
+      "about": "Cuba is a Caribbean island nation known for its vibrant culture, colorful architecture, and pristine beaches. From the historic streets of Havana to the lush tobacco fields of Viñales, Cuba offers travelers a step back in time. The country is also famous for its music, dance, and rich history, with influences from Spanish, African, and indigenous cultures.",
+      "curiosities": [
+        {
+          "topic": "Dress Code",
+          "description": "Cuba has a relaxed dress code, with casual attire being suitable for most occasions. Lightweight and breathable fabrics are recommended, especially in warmer months."
+        },
+        {
+          "topic": "Safety at Night",
+          "description": "Cuba is generally safe at night, with low crime rates in most areas. However, travelers should still exercise caution and avoid poorly lit or isolated areas, particularly in urban areas."
+        },
+        {
+          "topic": "LGBT Safety",
+          "description": "Cuba has made strides in LGBT rights, with discrimination based on sexual orientation being illegal. However, attitudes vary, and public displays of affection may attract unwanted attention in some areas."
+        },
+        {
+          "topic": "Public Transportation",
+          "description": "Cuba has a network of buses, taxis, and shared taxis (known as 'collectivos') for public transportation. While infrastructure may be dated, it's an affordable way to get around, especially for long distances."
+        },
+        {
+          "topic": "Healthcare System",
+          "description": "Cuba has a universal healthcare system that provides free medical care to its citizens and residents. While medical facilities may vary in quality, the country is known for its excellence in medical education and research."
+        }
+      ],
+      "must_visit_places": [
+        "Old Havana (Habana Vieja)",
+        "Viñales Valley",
+        "Trinidad",
+        "Varadero Beach",
+        "Santa Clara"
+      ],
+      "tags": [
+        "vibrant culture",
+        "colorful architecture",
+        "pristine beaches",
+        "music and dance",
+        "rich history"
+      ]
+    },
+    {
+      "title": "Denmark",
+      "imageName": "dinamarca.jpg",
+      "continent": "Europe",
+      "about": "Denmark is a Scandinavian country known for its rich history, modern design, and high quality of life. From the fairytale charm of Copenhagen to the windswept beaches of Skagen, Denmark offers travelers a blend of old-world charm and contemporary living. The country is also renowned for its culinary scene, cycling culture, and progressive social policies.",
+      "curiosities": [
+        {
+          "topic": "Dress Code",
+          "description": "Denmark has a casual dress code, with practical and stylish attire being the norm. Danes value comfort and functionality in their clothing choices, especially due to the country's unpredictable weather."
+        },
+        {
+          "topic": "Safety at Night",
+          "description": "Denmark is generally safe at night, with low crime rates in most areas. However, travelers should still exercise caution, particularly in urban areas known for nightlife."
+        },
+        {
+          "topic": "LGBT Safety",
+          "description": "Denmark is considered one of the most LGBT-friendly countries in the world, with progressive laws and a welcoming attitude towards the LGBT community. Copenhagen, in particular, has a vibrant LGBT scene."
+        },
+        {
+          "topic": "Public Transportation",
+          "description": "Denmark has a well-developed public transportation system, including trains, buses, and ferries, making it easy to travel between cities and explore the countryside. Biking is also a popular mode of transport in cities like Copenhagen."
+        },
+        {
+          "topic": "Healthcare System",
+          "description": "Denmark has a universal healthcare system that provides medical services to all residents. The country boasts modern medical facilities and high-quality care, making it one of the top destinations for medical tourism."
+        }
+      ],
+      "must_visit_places": [
+        "Tivoli Gardens, Copenhagen",
+        "Nyhavn, Copenhagen",
+        "Frederiksborg Castle, Hillerød",
+        "Legoland Billund",
+        "The Little Mermaid, Copenhagen"
+      ],
+      "tags": [
+        "rich history",
+        "modern design",
+        "high quality of life",
+        "culinary scene",
+        "progressive social policies"
+      ]
+    },
+    {
+      "title": "Arab Emirates",
+      "imageName": "emirados-arabes-unidos.jpg",
+      "continent": "Asia",
+      "about": "The United Arab Emirates (UAE) is a federation of seven emirates located in the Middle East, known for its futuristic architecture, luxury shopping, and vibrant culture. From the iconic Burj Khalifa in Dubai to the cultural heritage of Abu Dhabi, the UAE offers travelers a mix of modernity and tradition. The country is also famous for its desert landscapes, extravagant resorts, and world-class dining.",
+      "curiosities": [
+        {
+          "topic": "Dress Code",
+          "description": "The UAE has a diverse dress code influenced by cultural and religious factors. While Western clothing is common in urban areas, modest attire is expected when visiting religious sites or government buildings."
+        },
+        {
+          "topic": "Safety at Night",
+          "description": "The UAE is generally safe at night, with low crime rates and strict law enforcement. However, travelers should still exercise caution and avoid isolated areas, especially in urban centers known for nightlife."
+        },
+        {
+          "topic": "LGBT Safety",
+          "description": "The UAE has conservative attitudes towards the LGBT community, and same-sex relationships are illegal. LGBT travelers should exercise discretion and avoid public displays of affection."
+        },
+        {
+          "topic": "Public Transportation",
+          "description": "The UAE has a modern and efficient public transportation system, including metro, buses, and taxis, making it easy to get around cities like Dubai and Abu Dhabi. Ride-sharing services are also available."
+        },
+        {
+          "topic": "Healthcare System",
+          "description": "The UAE has a rapidly growing healthcare sector, with modern hospitals and clinics equipped with state-of-the-art facilities. Both public and private healthcare options are available to residents and visitors."
+        }
+      ],
+      "must_visit_places": [
+        "Burj Khalifa, Dubai",
+        "Sheikh Zayed Grand Mosque, Abu Dhabi",
+        "The Dubai Mall",
+        "Palm Jumeirah, Dubai",
+        "Ski Dubai, Mall of the Emirates"
+      ],
+      "tags": [
+        "futuristic architecture",
+        "luxury shopping",
+        "vibrant culture",
+        "desert landscapes",
+        "world-class dining"
+      ]
+    },
+    {
+      "title": "Slovenia",
+      "imageName": "eslovenia.jpg",
+      "continent": "Europe",
+      "about": "Slovenia is a small but diverse country in Central Europe known for its stunning natural landscapes, medieval architecture, and outdoor recreational opportunities. From the emerald waters of Lake Bled to the dramatic peaks of the Julian Alps, Slovenia offers travelers a wealth of experiences. The country is also celebrated for its rich cultural heritage, delicious cuisine, and warm hospitality.",
+      "curiosities": [
+        {
+          "topic": "Dress Code",
+          "description": "Slovenia has a casual dress code, with practical and stylish attire being the norm. In urban areas, such as Ljubljana, smart casual clothing is common, while in rural areas, casual wear is acceptable."
+        },
+        {
+          "topic": "Safety at Night",
+          "description": "Slovenia is generally safe at night, with low crime rates in most areas. However, travelers should exercise caution and avoid poorly lit or isolated areas, especially in urban centers known for nightlife."
+        },
+        {
+          "topic": "LGBT Safety",
+          "description": "Slovenia is considered one of the most LGBT-friendly countries in Central Europe, with anti-discrimination laws and a growing LGBT community. Ljubljana, the capital city, is known for its inclusive atmosphere."
+        },
+        {
+          "topic": "Public Transportation",
+          "description": "Slovenia has a reliable and efficient public transportation system, including buses and trains, making it easy to travel between cities and explore the countryside. Taxis and rental cars are also available."
+        },
+        {
+          "topic": "Healthcare System",
+          "description": "Slovenia has a universal healthcare system that provides medical services to all residents. The country boasts modern medical facilities and high-quality care, making it one of the top destinations for medical tourism."
+        }
+      ],
+      "must_visit_places": [
+        "Lake Bled",
+        "Ljubljana Castle",
+        "Postojna Cave",
+        "Piran",
+        "Triglav National Park"
+      ],
+      "tags": [
+        "stunning natural landscapes",
+        "medieval architecture",
+        "outdoor recreational opportunities",
+        "rich cultural heritage",
+        "delicious cuisine"
+      ]
+    },
+    {
+      "title": "Estonia",
+      "imageName": "estonia.jpg",
+      "continent": "Europe",
+      "about": "Estonia is a small Baltic country in Northern Europe known for its medieval towns, dense forests, and digital innovation. From the fairy-tale charm of Tallinn's Old Town to the pristine shores of the Baltic Sea, Estonia offers travelers a mix of history, nature, and modernity. The country is also celebrated for its cultural festivals, traditional cuisine, and commitment to environmental sustainability.",
+      "curiosities": [
+        {
+          "topic": "Dress Code",
+          "description": "Estonia has a casual dress code, with practical and stylish attire being the norm. In urban areas like Tallinn, smart casual clothing is common, while in rural areas, casual wear is acceptable."
+        },
+        {
+          "topic": "Safety at Night",
+          "description": "Estonia is generally safe at night, with low crime rates in most areas. However, travelers should exercise caution and avoid poorly lit or isolated areas, especially in urban centers known for nightlife."
+        },
+        {
+          "topic": "LGBT Safety",
+          "description": "Estonia has made progress in LGBT rights, with discrimination based on sexual orientation being illegal. Tallinn, the capital city, has a growing LGBT community and inclusive atmosphere."
+        },
+        {
+          "topic": "Public Transportation",
+          "description": "Estonia has a reliable and efficient public transportation system, including buses, trams, and trains, making it easy to travel between cities and explore the countryside. Taxis and ride-sharing services are also available."
+        },
+        {
+          "topic": "Healthcare System",
+          "description": "Estonia has a universal healthcare system that provides medical services to all residents. The country boasts modern medical facilities and high-quality care, making it one of the top destinations for medical tourism."
+        }
+      ],
+      "must_visit_places": [
+        "Tallinn Old Town",
+        "Lahemaa National Park",
+        "Saaremaa Island",
+        "Tartu University",
+        "Kumu Art Museum"
+      ],
+      "tags": [
+        "medieval towns",
+        "dense forests",
+        "digital innovation",
+        "cultural festivals",
+        "traditional cuisine"
+      ]
+    },
+    {
+      "title": "Philippines",
+      "imageName": "filipinas.jpg",
+      "continent": "Asia",
+      "about": "The Philippines is an archipelagic country in Southeast Asia known for its stunning beaches, vibrant culture, and diverse natural landscapes. From the white sands of Boracay to the emerald rice terraces of Banaue, the Philippines offers travelers a tropical paradise to explore. The country is also celebrated for its warm hospitality, delicious cuisine, and rich history.",
+      "curiosities": [
+        {
+          "topic": "Dress Code",
+          "description": "The Philippines has a relaxed dress code, with lightweight and breathable clothing being suitable for the tropical climate. Modest attire is recommended when visiting religious sites or traditional communities."
+        },
+        {
+          "topic": "Safety at Night",
+          "description": "The Philippines is generally safe at night, but travelers should exercise caution, especially in urban areas known for nightlife. Avoiding poorly lit or isolated areas is advisable."
+        },
+        {
+          "topic": "LGBT Safety",
+          "description": "The Philippines has a diverse and accepting attitude towards the LGBT community, with several cities having thriving LGBT scenes. However, attitudes may vary in more conservative areas."
+        },
+        {
+          "topic": "Public Transportation",
+          "description": "The Philippines has a variety of public transportation options, including jeepneys, tricycles, buses, and ferries, making it easy to get around cities and travel between islands. Taxis and ride-sharing services are also available."
+        },
+        {
+          "topic": "Healthcare System",
+          "description": "The Philippines has a mix of public and private healthcare facilities, with major cities having modern hospitals and clinics. Medical care can vary in quality and accessibility, so travelers should have comprehensive travel insurance."
+        }
+      ],
+      "must_visit_places": [
+        "Palawan",
+        "Boracay",
+        "Banaue Rice Terraces",
+        "Chocolate Hills, Bohol",
+        "Intramuros, Manila"
+      ],
+      "tags": [
+        "stunning beaches",
+        "vibrant culture",
+        "diverse natural landscapes",
+        "warm hospitality",
+        "rich history"
+      ]
+    },
+    {
+      "title": "Finland",
+      "imageName": "finlandia.jpg",
+      "continent": "Europe",
+      "about": "Finland is a Nordic country in Northern Europe known for its pristine wilderness, stunning lakes, and vibrant cities. From the Northern Lights in Lapland to the architectural wonders of Helsinki, Finland offers travelers a unique blend of nature and urban life. The country is also celebrated for its sauna culture, outdoor activities, and design heritage.",
+      "curiosities": [
+        {
+          "topic": "Dress Code",
+          "description": "Finland has a casual dress code, with practical and stylish attire being the norm. In urban areas like Helsinki, smart casual clothing is common, while in rural areas, casual wear is acceptable."
+        },
+        {
+          "topic": "Safety at Night",
+          "description": "Finland is generally safe at night, with low crime rates in most areas. However, travelers should exercise caution and avoid poorly lit or isolated areas, especially in urban centers known for nightlife."
+        },
+        {
+          "topic": "LGBT Safety",
+          "description": "Finland is known for its progressive attitudes towards the LGBT community, with anti-discrimination laws and a strong support network. Helsinki, the capital city, has a vibrant LGBT scene."
+        },
+        {
+          "topic": "Public Transportation",
+          "description": "Finland has a reliable and efficient public transportation system, including buses, trams, trains, and ferries, making it easy to get around cities and explore the countryside. Taxis and ride-sharing services are also available."
+        },
+        {
+          "topic": "Healthcare System",
+          "description": "Finland has a universal healthcare system that provides medical services to all residents. The country boasts modern medical facilities and high-quality care, making it one of the top destinations for medical tourism."
+        }
+      ],
+      "must_visit_places": [
+        "Northern Lights in Lapland",
+        "Helsinki Cathedral",
+        "Suomenlinna Fortress, Helsinki",
+        "Santa Claus Village, Rovaniemi",
+        "Lake Saimaa"
+      ],
+      "tags": [
+        "pristine wilderness",
+        "stunning lakes",
+        "vibrant cities",
+        "sauna culture",
+        "outdoor activities"
+      ]
+    },
+    {
+      "title": "Hungary",
+      "imageName": "hungria.jpg",
+      "continent": "Europe",
+      "about": "Hungary is a landlocked country in Central Europe known for its rich history, stunning architecture, and thermal baths. From the grandeur of Budapest's Parliament Building to the charm of rural villages, Hungary offers travelers a diverse range of experiences. The country is also celebrated for its vibrant cultural scene, delicious cuisine, and world-renowned wines.",
+      "curiosities": [
+        {
+          "topic": "Dress Code",
+          "description": "Hungary has a diverse dress code, with casual attire being suitable for most occasions. In urban areas like Budapest, smart casual clothing is common, while in rural areas, casual wear is acceptable."
+        },
+        {
+          "topic": "Safety at Night",
+          "description": "Hungary is generally safe at night, with low crime rates in most areas. However, travelers should exercise caution and avoid poorly lit or isolated areas, especially in urban centers known for nightlife."
+        },
+        {
+          "topic": "LGBT Safety",
+          "description": "Hungary has made progress in LGBT rights, but attitudes may vary in more conservative areas. Budapest, the capital city, has a growing LGBT community and inclusive atmosphere."
+        },
+        {
+          "topic": "Public Transportation",
+          "description": "Hungary has a reliable and efficient public transportation system, including trams, buses, and metro, making it easy to get around cities like Budapest. Trains are also available for traveling between cities."
+        },
+        {
+          "topic": "Healthcare System",
+          "description": "Hungary has a universal healthcare system that provides medical services to all residents. The country boasts modern medical facilities and high-quality care, making it one of the top destinations for medical tourism."
+        }
+      ],
+      "must_visit_places": [
+        "Budapest Parliament Building",
+        "Fisherman's Bastion, Budapest",
+        "Hungarian State Opera House, Budapest",
+        "Eger Castle",
+        "Lake Balaton"
+      ],
+      "tags": [
+        "rich history",
+        "stunning architecture",
+        "thermal baths",
+        "vibrant cultural scene",
+        "world-renowned wines"
+      ]
+    },
+    {
+      "title": "India",
+      "imageName": "india.jpg",
+      "continent": "Asia",
+      "about": "India is a vast and diverse country in South Asia known for its ancient heritage, vibrant culture, and stunning landscapes. From the iconic Taj Mahal in Agra to the bustling streets of Mumbai, India offers travelers a sensory overload of sights, sounds, and flavors. The country is also celebrated for its spirituality, traditional festivals, and mouthwatering cuisine.",
+      "curiosities": [
+        {
+          "topic": "Dress Code",
+          "description": "India has a diverse dress code influenced by regional customs and traditions. While Western clothing is common in urban areas, modest attire is recommended when visiting religious sites or rural communities."
+        },
+        {
+          "topic": "Safety at Night",
+          "description": "India is generally safe at night, but travelers should exercise caution, especially in crowded or unfamiliar areas. Avoiding poorly lit or isolated areas is advisable, particularly for solo travelers."
+        },
+        {
+          "topic": "LGBT Safety",
+          "description": "Attitudes towards the LGBT community vary across India, with some regions being more accepting than others. Major cities like Mumbai and Delhi have vibrant LGBT communities and nightlife."
+        },
+        {
+          "topic": "Public Transportation",
+          "description": "India has a vast and diverse public transportation system, including trains, buses, auto-rickshaws, and metro, making it easy to get around cities and travel between regions. Taxis and ride-sharing services are also widely available."
+        },
+        {
+          "topic": "Healthcare System",
+          "description": "India has a mix of public and private healthcare facilities, with major cities having modern hospitals and clinics. Medical care can vary in quality and accessibility, so travelers should have comprehensive travel insurance."
+        }
+      ],
+      "must_visit_places": [
+        "Taj Mahal, Agra",
+        "Jaipur's Amber Fort",
+        "Varanasi's Ghats",
+        "Goa's Beaches",
+        "Kerala's Backwaters"
+      ],
+      "tags": [
+        "ancient heritage",
+        "vibrant culture",
+        "stunning landscapes",
+        "spirituality",
+        "mouthwatering cuisine"
+      ]
+    },
+    {
+      "title": "Indonesia",
+      "imageName": "indonesia.jpg",
+      "continent": "Ásia",
+      "about": "A Indonésia é um vasto país insular do Sudeste Asiático conhecido por sua rica diversidade cultural, paisagens deslumbrantes e praias paradisíacas. Das selvas exuberantes de Bornéu às águas cristalinas de Bali, a Indonésia oferece aos viajantes uma experiência única. O país também é celebrado por sua culinária deliciosa, templos antigos e uma rica herança cultural.",
+      "curiosities": [
+        {
+          "topic": "Código de Vestimenta",
+          "description": "A Indonésia possui um código de vestimenta variado, influenciado por tradições locais e religiosas. Enquanto roupas leves são adequadas para o clima tropical, em áreas mais conservadoras ou ao visitar locais religiosos, é recomendado o uso de roupas modestas."
+        },
+        {
+          "topic": "Segurança à Noite",
+          "description": "A Indonésia é geralmente segura à noite, mas os viajantes devem ter cuidado, especialmente em áreas urbanas movimentadas ou desconhecidas. Evitar áreas mal iluminadas ou isoladas é aconselhável, especialmente para viajantes individuais."
+        },
+        {
+          "topic": "Segurança LGBT",
+          "description": "Atitudes em relação à comunidade LGBT variam na Indonésia, com algumas regiões sendo mais tolerantes do que outras. Bali, em particular, é conhecida por sua atmosfera acolhedora e comunidade LGBT vibrante."
+        },
+        {
+          "topic": "Transporte Público",
+          "description": "A Indonésia possui uma variedade de opções de transporte público, incluindo ônibus, trens, balsas e táxis, facilitando o deslocamento nas cidades e entre as ilhas. Serviços de transporte privado, como o Grab, também estão disponíveis."
+        },
+        {
+          "topic": "Sistema de Saúde",
+          "description": "A Indonésia possui uma mistura de instalações de saúde pública e privada, com hospitais e clínicas modernos nas principais cidades. No entanto, a qualidade e acessibilidade dos serviços médicos podem variar, especialmente em áreas rurais."
+        }
+      ],
+      "must_visit_places": [
+        "Bali",
+        "Templo de Borobudur, Java Central",
+        "Floresta Tropical de Bornéu",
+        "Ilhas Gili, Lombok",
+        "Parque Nacional de Komodo"
+      ],
+      "tags": [
+        "diversidade cultural",
+        "paisagens deslumbrantes",
+        "praias paradisíacas",
+        "culinária deliciosa",
+        "herança cultural rica"
+      ]
+    },
+    {
+      "title": "Ireland",
+      "imageName": "irlanda.jpg",
+      "continent": "Europe",
+      "about": "Ireland is an island country in Northwestern Europe known for its lush green landscapes, rich history, and warm hospitality. From the dramatic cliffs of the Wild Atlantic Way to the vibrant streets of Dublin, Ireland offers travelers a blend of natural beauty and urban charm. The country is also celebrated for its traditional music, literary heritage, and iconic landmarks.",
+      "curiosities": [
+        {
+          "topic": "Dress Code",
+          "description": "Ireland has a casual dress code, with practical and weather-appropriate attire being the norm. In urban areas like Dublin, smart casual clothing is common, while in rural areas, casual wear is acceptable."
+        },
+        {
+          "topic": "Safety at Night",
+          "description": "Ireland is generally safe at night, with low crime rates in most areas. However, travelers should exercise caution and avoid poorly lit or isolated areas, especially in urban centers known for nightlife."
+        },
+        {
+          "topic": "LGBT Safety",
+          "description": "Ireland is known for its progressive attitudes towards the LGBT community, with anti-discrimination laws and a strong support network. Dublin, the capital city, has a vibrant LGBT scene."
+        },
+        {
+          "topic": "Public Transportation",
+          "description": "Ireland has a reliable and efficient public transportation system, including buses, trains, and trams, making it easy to get around cities and explore the countryside. Taxis and ride-sharing services are also available."
+        },
+        {
+          "topic": "Healthcare System",
+          "description": "Ireland has a public healthcare system that provides medical services to residents, with private healthcare options also available. The country boasts modern medical facilities and high-quality care."
+        }
+      ],
+      "must_visit_places": [
+        "Cliffs of Moher",
+        "Guinness Storehouse, Dublin",
+        "Ring of Kerry",
+        "Giant's Causeway, Northern Ireland",
+        "Trinity College Library, Dublin"
+      ],
+      "tags": [
+        "lush green landscapes",
+        "rich history",
+        "warm hospitality",
+        "traditional music",
+        "iconic landmarks"
+      ]
+    },
+    {
+      "title": "Iceland",
+      "imageName": "islandia.jpg",
+      "continent": "Europe",
+      "about": "Iceland is a Nordic island country in the North Atlantic known for its stunning natural beauty, geothermal wonders, and adventurous spirit. From the otherworldly landscapes of the Golden Circle to the majestic glaciers of Vatnajökull National Park, Iceland offers travelers a unique and unforgettable experience. The country is also celebrated for its rich cultural heritage, vibrant arts scene, and friendly locals.",
+      "curiosities": [
+        {
+          "topic": "Dress Code",
+          "description": "Iceland has a casual dress code, with practical and weather-appropriate attire being the norm. In urban areas like Reykjavik, smart casual clothing is common, while in rural areas, casual wear is acceptable."
+        },
+        {
+          "topic": "Safety at Night",
+          "description": "Iceland is generally safe at night, with low crime rates in most areas. However, travelers should exercise caution, especially when driving in remote areas or exploring natural attractions after dark."
+        },
+        {
+          "topic": "LGBT Safety",
+          "description": "Iceland is known for its progressive attitudes towards the LGBT community, with strong legal protections and a welcoming atmosphere. Reykjavik, the capital city, has a vibrant LGBT scene."
+        },
+        {
+          "topic": "Public Transportation",
+          "description": "Iceland has a limited public transportation system, with buses and domestic flights connecting major cities and towns. However, renting a car is often the best way to explore the country's remote areas and natural wonders."
+        },
+        {
+          "topic": "Healthcare System",
+          "description": "Iceland has a universal healthcare system that provides medical services to residents and visitors alike. The country boasts modern medical facilities and high-quality care, making it a safe destination for travelers."
+        }
+      ],
+      "must_visit_places": [
+        "Golden Circle",
+        "Blue Lagoon",
+        "Vatnajökull National Park",
+        "Jökulsárlón Glacier Lagoon",
+        "Thingvellir National Park"
+      ],
+      "tags": [
+        "stunning natural beauty",
+        "geothermal wonders",
+        "adventurous spirit",
+        "rich cultural heritage",
+        "vibrant arts scene"
+      ]
+    },
+    {
+      "title": "Japan",
+      "imageName": "japao.jpg",
+      "continent": "Asia",
+      "about": "Japan is an island nation in East Asia known for its unique blend of tradition and modernity, stunning natural landscapes, and rich cultural heritage. From the bustling streets of Tokyo to the serene temples of Kyoto, Japan offers travelers a diverse range of experiences. The country is also celebrated for its delicious cuisine, cutting-edge technology, and hospitality.",
+      "curiosities": [
+        {
+          "topic": "Dress Code",
+          "description": "Japan has a diverse dress code, influenced by both traditional and Western styles. While casual attire is acceptable in most situations, visitors are encouraged to dress modestly when visiting temples or formal events."
+        },
+        {
+          "topic": "Safety at Night",
+          "description": "Japan is generally safe at night, with low crime rates in most areas. However, travelers should exercise caution, especially in crowded areas or entertainment districts known for nightlife."
+        },
+        {
+          "topic": "LGBT Safety",
+          "description": "Attitudes towards the LGBT community vary in Japan, with larger cities like Tokyo and Osaka being more accepting than rural areas. Tokyo, in particular, has a vibrant LGBT scene and nightlife."
+        },
+        {
+          "topic": "Public Transportation",
+          "description": "Japan has one of the most efficient and extensive public transportation systems in the world, including trains, buses, and subways. Travelers can easily explore cities and travel between regions using Japan's shinkansen (bullet trains) and regional rail networks."
+        },
+        {
+          "topic": "Healthcare System",
+          "description": "Japan has a universal healthcare system that provides high-quality medical services to residents and visitors. The country boasts modern hospitals and clinics, with English-speaking staff available in many tourist areas."
+        }
+      ],
+      "must_visit_places": [
+        "Tokyo",
+        "Kyoto",
+        "Mount Fuji",
+        "Hiroshima Peace Memorial Park",
+        "Nara"
+      ],
+      "tags": [
+        "unique blend of tradition and modernity",
+        "stunning natural landscapes",
+        "rich cultural heritage",
+        "delicious cuisine",
+        "cutting-edge technology"
+      ]
+    },
+    {
+      "title": "Latvia",
+      "imageName": "letonia.jpg",
+      "continent": "Europe",
+      "about": "Latvia is a country in the Baltic region of Northern Europe known for its rich history, stunning architecture, and lush natural landscapes. From the medieval charm of Riga's Old Town to the pristine beaches of Jurmala, Latvia offers travelers a blend of cultural heritage and outdoor adventures. The country is also celebrated for its vibrant arts scene, traditional festivals, and warm hospitality.",
+      "curiosities": [
+        {
+          "topic": "Dress Code",
+          "description": "Latvia has a casual dress code, with practical and weather-appropriate attire being the norm. In urban areas like Riga, smart casual clothing is common, while in rural areas, casual wear is acceptable."
+        },
+        {
+          "topic": "Safety at Night",
+          "description": "Latvia is generally safe at night, with low crime rates in most areas. However, travelers should exercise caution, especially in crowded areas or entertainment districts known for nightlife."
+        },
+        {
+          "topic": "LGBT Safety",
+          "description": "Attitudes towards the LGBT community vary in Latvia, with larger cities like Riga being more accepting than rural areas. Riga, in particular, has a growing LGBT scene and inclusive atmosphere."
+        },
+        {
+          "topic": "Public Transportation",
+          "description": "Latvia has a reliable and efficient public transportation system, including buses, trams, and trains, making it easy to get around cities and travel between regions. Taxis and ride-sharing services are also available."
+        },
+        {
+          "topic": "Healthcare System",
+          "description": "Latvia has a public healthcare system that provides medical services to residents, with private healthcare options also available. The country boasts modern medical facilities and high-quality care."
+        }
+      ],
+      "must_visit_places": [
+        "Riga Old Town",
+        "Jurmala Beach",
+        "Gauja National Park",
+        "Rundale Palace",
+        "Sigulda"
+      ],
+      "tags": [
+        "rich history",
+        "stunning architecture",
+        "lush natural landscapes",
+        "vibrant arts scene",
+        "warm hospitality"
+      ]
+    },
+    {
+      "title": "Lithuania",
+      "imageName": "lituania.jpg",
+      "continent": "Europe",
+      "about": "Lithuania is a country in the Baltic region of Northern Europe known for its historical significance, scenic countryside, and vibrant cultural scene. From the medieval architecture of Vilnius Old Town to the picturesque landscapes of Trakai National Park, Lithuania offers travelers a mix of heritage and natural beauty. The country is also celebrated for its traditional festivals, delicious cuisine, and welcoming atmosphere.",
+      "curiosities": [
+        {
+          "topic": "Dress Code",
+          "description": "Lithuania has a casual dress code, with practical and weather-appropriate attire being the norm. In urban areas like Vilnius, smart casual clothing is common, while in rural areas, casual wear is acceptable."
+        },
+        {
+          "topic": "Safety at Night",
+          "description": "Lithuania is generally safe at night, with low crime rates in most areas. However, travelers should exercise caution, especially in crowded areas or entertainment districts known for nightlife."
+        },
+        {
+          "topic": "LGBT Safety",
+          "description": "Attitudes towards the LGBT community vary in Lithuania, with larger cities like Vilnius being more accepting than rural areas. Vilnius, in particular, has a growing LGBT scene and inclusive atmosphere."
+        },
+        {
+          "topic": "Public Transportation",
+          "description": "Lithuania has a reliable and efficient public transportation system, including buses, trolleybuses, and trains, making it easy to get around cities and travel between regions. Taxis and ride-sharing services are also available."
+        },
+        {
+          "topic": "Healthcare System",
+          "description": "Lithuania has a public healthcare system that provides medical services to residents, with private healthcare options also available. The country boasts modern medical facilities and high-quality care."
+        }
+      ],
+      "must_visit_places": [
+        "Vilnius Old Town",
+        "Trakai Castle",
+        "Hill of Crosses",
+        "Curonian Spit",
+        "Palanga Beach"
+      ],
+      "tags": [
+        "historical significance",
+        "scenic countryside",
+        "vibrant cultural scene",
+        "traditional festivals",
+        "delicious cuisine"
+      ]
+    },
+    {
+      "title": "Luxembourg",
+      "imageName": "luxemburgo.jpg",
+      "continent": "Europe",
+      "about": "Luxembourg is a small landlocked country in Western Europe known for its picturesque landscapes, medieval castles, and vibrant cultural scene. From the historic charm of Luxembourg City's old town to the scenic beauty of the Müllerthal region, Luxembourg offers travelers a unique blend of history and natural beauty. The country is also celebrated for its strong economy, multicultural society, and high standard of living.",
+      "curiosities": [
+        {
+          "topic": "Dress Code",
+          "description": "Luxembourg has a casual dress code, with practical and stylish attire being the norm. In urban areas like Luxembourg City, smart casual clothing is common, while in rural areas, casual wear is acceptable."
+        },
+        {
+          "topic": "Safety at Night",
+          "description": "Luxembourg is generally safe at night, with low crime rates in most areas. However, travelers should exercise caution, especially in crowded areas or entertainment districts known for nightlife."
+        },
+        {
+          "topic": "LGBT Safety",
+          "description": "Luxembourg is known for its progressive attitudes towards the LGBT community, with strong legal protections and a welcoming atmosphere. Luxembourg City, in particular, has a vibrant LGBT scene."
+        },
+        {
+          "topic": "Public Transportation",
+          "description": "Luxembourg has a reliable and efficient public transportation system, including buses, trams, and trains, making it easy to get around cities and travel between regions. Taxis and ride-sharing services are also available."
+        },
+        {
+          "topic": "Healthcare System",
+          "description": "Luxembourg has a high-quality healthcare system that provides medical services to residents and visitors alike. The country boasts modern medical facilities and high standards of care."
+        }
+      ],
+      "must_visit_places": [
+        "Luxembourg City Old Town",
+        "Vianden Castle",
+        "Müllerthal Trail",
+        "Bock Casemates",
+        "Moselle Valley"
+      ],
+      "tags": [
+        "picturesque landscapes",
+        "medieval castles",
+        "vibrant cultural scene",
+        "strong economy",
+        "high standard of living"
+      ]
+    },
+    {
+      "title": "Malaysia",
+      "imageName": "malasia.jpg",
+      "continent": "Ásia",
+      "about": "Malaysia is a Southeast Asian country known for its diverse culture, stunning landscapes, and vibrant cities. From the bustling streets of Kuala Lumpur to the pristine beaches of Langkawi, Malaysia offers travelers a mix of urban excitement and natural beauty. The country is also celebrated for its delicious cuisine, rich history, and warm hospitality.",
+      "curiosities": [
+        {
+          "topic": "Dress Code",
+          "description": "Malaysia has a diverse dress code influenced by its multicultural population. While Western clothing is common in urban areas, visitors are advised to dress modestly when visiting religious sites or rural communities."
+        },
+        {
+          "topic": "Safety at Night",
+          "description": "Malaysia is generally safe at night, with low crime rates in most areas. However, travelers should exercise caution, especially in crowded areas or entertainment districts known for nightlife."
+        },
+        {
+          "topic": "LGBT Safety",
+          "description": "Attitudes towards the LGBT community vary in Malaysia, with larger cities like Kuala Lumpur being more accepting than rural areas. However, public displays of affection should be avoided to prevent unwanted attention."
+        },
+        {
+          "topic": "Public Transportation",
+          "description": "Malaysia has a well-developed public transportation system, including trains, buses, and monorails, making it easy to get around cities and travel between regions. Taxis and ride-sharing services like Grab are also widely available."
+        },
+        {
+          "topic": "Healthcare System",
+          "description": "Malaysia has both public and private healthcare facilities, with major cities having modern hospitals and clinics. The country is also a popular destination for medical tourism, offering high-quality care at competitive prices."
+        }
+      ],
+      "must_visit_places": [
+        "Petronas Twin Towers, Kuala Lumpur",
+        "Langkawi Island",
+        "George Town, Penang",
+        "Taman Negara National Park",
+        "Batu Caves, Selangor"
+      ],
+      "tags": [
+        "diverse culture",
+        "stunning landscapes",
+        "vibrant cities",
+        "delicious cuisine",
+        "rich history"
+      ]
+    },
+    {
+      "title": "Malta",
+      "imageName": "malta.jpg",
+      "continent": "Europe",
+      "about": "Malta is an archipelago in the Mediterranean known for its rich history, stunning architecture, and beautiful beaches. From Valletta, the capital, with its fortified walls and baroque cathedral, to the crystal-clear waters of the Blue Lagoon, Malta offers travelers a charming mix of culture and nature. The country is also celebrated for its delicious cuisine, lively festivals, and sunny weather for most of the year.",
+      "curiosities": [
+        {
+          "topic": "Dress Code",
+          "description": "Malta has a warm climate for most of the year, so lightweight and comfortable clothing is recommended. When visiting religious sites, it is advisable to wear modest clothing."
+        },
+        {
+          "topic": "Safety at Night",
+          "description": "Malta is generally safe at night, with low crime rates. However, as with any tourist destination, it is always good to be vigilant and take basic precautions."
+        },
+        {
+          "topic": "LGBT Safety",
+          "description": "Malta is considered one of the most LGBT-friendly countries in the world, with progressive laws and a vibrant community. The island of Malta is especially known for its welcoming and inclusive atmosphere."
+        },
+        {
+          "topic": "Public Transportation",
+          "description": "Malta has a comprehensive public transportation system, including buses and ferries, making it easy to explore the island. Taxis are also available and are a convenient option for getting around."
+        },
+        {
+          "topic": "Healthcare System",
+          "description": "Malta has a modern and well-developed healthcare system, with hospitals and clinics across the island. Medical services are generally of high quality, with many professionals speaking English."
+        }
+      ],
+      "must_visit_places": [
+        "Valletta",
+        "Gozo Island",
+        "Maltese Megalithic Temples",
+        "Blue Grotto",
+        "Mdina"
+      ],
+      "tags": [
+        "rich history",
+        "stunning architecture",
+        "beautiful beaches",
+        "delicious cuisine",
+        "lively festivals"
+      ]
+    },
+    {
+      "title": "Mauritius",
+      "imageName": "mauricias.jpg",
+      "continent": "Africa",
+      "about": "Mauritius is an island nation in the Indian Ocean known for its stunning beaches, crystal-clear waters, and vibrant marine life. From the white sandy shores of Trou aux Biches to the rugged cliffs of Le Morne, Mauritius offers travelers a paradise for relaxation and adventure. The country is also celebrated for its diverse culture, delicious cuisine, and warm hospitality.",
+      "curiosities": [
+        {
+          "topic": "Dress Code",
+          "description": "Mauritius has a warm tropical climate, so light and comfortable clothing is recommended. However, when visiting religious sites or dining at upscale restaurants, it's best to dress modestly."
+        },
+        {
+          "topic": "Safety at Night",
+          "description": "Mauritius is generally safe at night, with low crime rates. However, it's always a good idea to take common-sense precautions, especially in tourist areas."
+        },
+        {
+          "topic": "LGBT Safety",
+          "description": "Mauritius is relatively tolerant towards the LGBT community, but attitudes may vary in more rural areas. In tourist areas and major cities like Port Louis, there are LGBT-friendly establishments and events."
+        },
+        {
+          "topic": "Public Transportation",
+          "description": "Mauritius has a limited public transportation system, with buses being the primary mode of transport for locals and tourists. Taxis and rental cars are also available for more flexibility in exploring the island."
+        },
+        {
+          "topic": "Healthcare System",
+          "description": "Mauritius has public and private healthcare facilities, with major hospitals located in Port Louis and other urban areas. Medical services are generally of good quality, but travelers should have comprehensive travel insurance."
+        }
+      ],
+      "must_visit_places": [
+        "Trou aux Biches Beach",
+        "Le Morne",
+        "Pamplemousses Botanical Garden",
+        "Chamarel Seven Colored Earth",
+        "Black River Gorges National Park"
+      ],
+      "tags": [
+        "stunning beaches",
+        "crystal-clear waters",
+        "vibrant marine life",
+        "diverse culture",
+        "delicious cuisine"
+      ]
+    },
+    {
+      "title": "Mexico",
+      "imageName": "mexico.jpg",
+      "continent": "North America",
+      "about": "Mexico is a country in North America known for its rich history, vibrant culture, and diverse landscapes. From the ancient ruins of Chichen Itza to the sandy beaches of Cancun, Mexico offers travelers a wealth of experiences. The country is also celebrated for its delicious cuisine, colorful festivals, and warm hospitality.",
+      "curiosities": [
+        {
+          "topic": "Dress Code",
+          "description": "Mexico has a diverse dress code influenced by its indigenous heritage and Spanish colonial history. While casual clothing is acceptable in most places, visitors should dress modestly when visiting religious sites or upscale restaurants."
+        },
+        {
+          "topic": "Safety at Night",
+          "description": "Mexico is generally safe at night, with a strong police presence in tourist areas. However, travelers should be aware of their surroundings and avoid walking alone in unfamiliar or poorly lit areas."
+        },
+        {
+          "topic": "LGBT Safety",
+          "description": "Attitudes towards the LGBT community vary in Mexico, with larger cities like Mexico City being more accepting than rural areas. Popular tourist destinations like Puerto Vallarta and Cancun are known for their LGBT-friendly atmosphere."
+        },
+        {
+          "topic": "Public Transportation",
+          "description": "Mexico has an extensive transportation network, including buses, trains, and domestic flights, making it easy to travel between cities and regions. Taxis and ride-sharing services are also widely available in urban areas."
+        },
+        {
+          "topic": "Healthcare System",
+          "description": "Mexico has both public and private healthcare facilities, with major cities having modern hospitals and clinics. Medical services are generally of good quality, but travelers should have comprehensive travel insurance."
+        }
+      ],
+      "must_visit_places": [
+        "Chichen Itza",
+        "Tulum",
+        "Mexico City",
+        "Cancun",
+        "Puerto Vallarta"
+      ],
+      "tags": [
+        "rich history",
+        "vibrant culture",
+        "diverse landscapes",
+        "delicious cuisine",
+        "colorful festivals"
+      ]
+    },
+    {
+      "title": "Namibia",
+      "imageName": "namibia.jpg",
+      "continent": "Africa",
+      "about": "Namibia is a country in Southern Africa known for its stunning desert landscapes, diverse wildlife, and rich cultural heritage. From the towering red sand dunes of Sossusvlei to the wildlife-rich plains of Etosha National Park, Namibia offers travelers a unique and unforgettable experience. The country is also celebrated for its indigenous cultures, adventurous activities, and warm hospitality.",
+      "curiosities": [
+        {
+          "topic": "Dress Code",
+          "description": "Namibia has a diverse dress code influenced by its various ethnic groups and climates. While casual clothing is suitable for most occasions, travelers should dress modestly when visiting rural communities or cultural sites."
+        },
+        {
+          "topic": "Safety at Night",
+          "description": "Namibia is generally safe at night, with low crime rates in most areas. However, travelers should take common-sense precautions, especially in urban areas and remote regions."
+        },
+        {
+          "topic": "LGBT Safety",
+          "description": "Namibia is relatively tolerant towards the LGBT community, but attitudes may vary in more rural areas. Windhoek, the capital, has a growing LGBT scene and supportive community."
+        },
+        {
+          "topic": "Public Transportation",
+          "description": "Namibia has limited public transportation options, with most travelers opting for rental cars or guided tours to explore the country. Taxis are available in urban areas, but long-distance travel may require private transport."
+        },
+        {
+          "topic": "Healthcare System",
+          "description": "Namibia has public and private healthcare facilities, with major hospitals located in Windhoek and other urban centers. Medical services are generally of good quality, but travelers should have comprehensive travel insurance."
+        }
+      ],
+      "must_visit_places": [
+        "Sossusvlei",
+        "Etosha National Park",
+        "Fish River Canyon",
+        "Swakopmund",
+        "Skeleton Coast"
+      ],
+      "tags": [
+        "stunning desert landscapes",
+        "diverse wildlife",
+        "rich cultural heritage",
+        "adventurous activities",
+        "warm hospitality"
+      ]
+    },
+    {
+      "title": "Norway",
+      "imageName": "noruega.jpg",
+      "continent": "Europe",
+      "about": "Norway is a country in Northern Europe known for its breathtaking fjords, majestic mountains, and vibrant cities. From the UNESCO-listed fjords of Geirangerfjord and Nærøyfjord to the cosmopolitan capital of Oslo, Norway offers travelers a harmonious blend of natural beauty and urban sophistication. The country is also celebrated for its outdoor adventures, cultural festivals, and high quality of life.",
+      "curiosities": [
+        {
+          "topic": "Dress Code",
+          "description": "Norway has a casual dress code, with practical and weather-appropriate clothing being the norm. In urban areas like Oslo, smart casual attire is common, while in rural regions, outdoor gear is suitable for activities like hiking and skiing."
+        },
+        {
+          "topic": "Safety at Night",
+          "description": "Norway is generally safe at night, with low crime rates and a strong sense of security. However, travelers should exercise caution in tourist areas and avoid isolated areas, especially in rural regions."
+        },
+        {
+          "topic": "LGBT Safety",
+          "description": "Norway is known for its progressive attitudes towards the LGBT community, with strong legal protections and a welcoming atmosphere. Major cities like Oslo and Bergen have vibrant LGBT scenes and inclusive communities."
+        },
+        {
+          "topic": "Public Transportation",
+          "description": "Norway has an efficient public transportation system, including trains, buses, and ferries, making it easy to explore the country. The scenic train routes, such as the Bergen Line and the Flam Railway, offer memorable experiences for travelers."
+        },
+        {
+          "topic": "Healthcare System",
+          "description": "Norway has a comprehensive healthcare system that provides medical services to residents and visitors alike. The country is known for its high-quality healthcare facilities and universal healthcare coverage."
+        }
+      ],
+      "must_visit_places": [
+        "Geirangerfjord",
+        "Trolltunga",
+        "Oslo",
+        "Lofoten Islands",
+        "Bergen"
+      ],
+      "tags": [
+        "breathtaking fjords",
+        "majestic mountains",
+        "vibrant cities",
+        "outdoor adventures",
+        "cultural festivals"
+      ]
+    },
+    {
+      "title": "New Zealand",
+      "imageName": "nova-zelandia.jpg",
+      "continent": "Oceania",
+      "about": "New Zealand is an island country in the southwestern Pacific Ocean known for its stunning natural landscapes, Maori culture, and outdoor adventures. From the snow-capped peaks of the Southern Alps to the pristine beaches of the Bay of Islands, New Zealand offers travelers a diverse range of experiences. The country is also celebrated for its friendly locals, delicious cuisine, and laid-back lifestyle.",
+      "curiosities": [
+        {
+          "topic": "Dress Code",
+          "description": "New Zealand has a relaxed dress code, with casual and comfortable clothing being the norm. However, when visiting Maori marae (meeting grounds) or upscale restaurants, it's best to dress neatly and respectfully."
+        },
+        {
+          "topic": "Safety at Night",
+          "description": "New Zealand is generally safe at night, with low crime rates in most areas. However, travelers should take standard precautions, especially in urban areas and tourist hotspots."
+        },
+        {
+          "topic": "LGBT Safety",
+          "description": "New Zealand is known for its progressive attitudes towards the LGBT community, with strong legal protections and a welcoming atmosphere. Cities like Auckland and Wellington have vibrant LGBT scenes and inclusive communities."
+        },
+        {
+          "topic": "Public Transportation",
+          "description": "New Zealand has a limited public transportation network, with buses and trains serving major cities and regional areas. Rental cars and camper vans are popular options for exploring the country's remote and scenic destinations."
+        },
+        {
+          "topic": "Healthcare System",
+          "description": "New Zealand has a public healthcare system that provides medical services to residents and visitors alike. The country is known for its high-quality healthcare facilities and emphasis on preventive care."
+        }
+      ],
+      "must_visit_places": [
+        "Milford Sound",
+        "Tongariro National Park",
+        "Bay of Islands",
+        "Rotorua",
+        "Abel Tasman National Park"
+      ],
+      "tags": [
+        "stunning natural landscapes",
+        "Maori culture",
+        "outdoor adventures",
+        "friendly locals",
+        "delicious cuisine"
+      ]
+    },
+    {
+      "title": "Oman",
+      "imageName": "oma.jpg",
+      "continent": "Ásia",
+      "about": "Oman is a country in the Middle East known for its ancient forts, stunning desert landscapes, and rich cultural heritage. From the historic capital of Muscat with its grand mosques and bustling souks to the vast dunes of the Wahiba Sands, Oman offers travelers a glimpse into the Arabian Peninsula's diverse history and natural beauty. The country is also celebrated for its warm hospitality, traditional cuisine, and tranquil beaches.",
+      "curiosities": [
+        {
+          "topic": "Dress Code",
+          "description": "Oman has a conservative dress code, especially in rural areas and religious sites. Visitors are advised to dress modestly, covering shoulders and knees, to show respect for local customs and traditions."
+        },
+        {
+          "topic": "Safety at Night",
+          "description": "Oman is generally safe at night, with low crime rates and a strong sense of security. However, travelers should exercise caution, especially in remote areas and when driving on desert roads."
+        },
+        {
+          "topic": "LGBT Safety",
+          "description": "Oman's attitudes towards the LGBT community are conservative, and same-sex relationships are not widely accepted. LGBT travelers should exercise discretion and avoid public displays of affection."
+        },
+        {
+          "topic": "Public Transportation",
+          "description": "Oman has a limited public transportation network, with buses serving major cities and towns. Taxis and rental cars are the preferred modes of transportation for getting around, especially for exploring remote areas."
+        },
+        {
+          "topic": "Healthcare System",
+          "description": "Oman has a public healthcare system that provides medical services to residents and visitors alike. The country is known for its modern hospitals and clinics, particularly in urban areas like Muscat."
+        }
+      ],
+      "must_visit_places": [
+        "Sultan Qaboos Grand Mosque",
+        "Nizwa Fort",
+        "Wahiba Sands",
+        "Jebel Shams",
+        "Muttrah Corniche"
+      ],
+      "tags": [
+        "ancient forts",
+        "stunning desert landscapes",
+        "rich cultural heritage",
+        "warm hospitality",
+        "tranquil beaches"
+      ]
+    },
+    {
+      "title": "Netherlands",
+      "imageName": "paises-baixos.jpg",
+      "continent": "Europe",
+      "about": "The Netherlands, often referred to as Holland, is a country located in Northwestern Europe known for its flat landscape, picturesque canals, and iconic windmills. From the vibrant streets of Amsterdam to the charming countryside dotted with tulip fields, the Netherlands offers travelers a delightful mix of urban culture and natural beauty. The country is also celebrated for its rich history, artistic heritage, and progressive outlook.",
+      "curiosities": [
+        {
+          "topic": "Dress Code",
+          "description": "The Netherlands has a casual dress code, with practical and weather-appropriate clothing being the norm. In urban areas like Amsterdam, smart casual attire is common, while in rural regions, outdoor gear is suitable for activities like cycling and hiking."
+        },
+        {
+          "topic": "Safety at Night",
+          "description": "The Netherlands is generally safe at night, with low crime rates and well-lit streets in urban areas. However, travelers should take common-sense precautions, especially in tourist areas and nightlife districts."
+        },
+        {
+          "topic": "LGBT Safety",
+          "description": "The Netherlands is known for its progressive attitudes towards the LGBT community, with strong legal protections and a vibrant LGBT scene. Cities like Amsterdam are renowned for their inclusive atmosphere and LGBT-friendly establishments."
+        },
+        {
+          "topic": "Public Transportation",
+          "description": "The Netherlands has an extensive and efficient public transportation system, including trains, trams, buses, and ferries. The Dutch cycling culture is also prevalent, with bike lanes and rental services available in major cities."
+        },
+        {
+          "topic": "Healthcare System",
+          "description": "The Netherlands has a high-quality healthcare system that provides medical services to residents and visitors alike. The country is known for its modern hospitals, well-trained medical professionals, and comprehensive health insurance coverage."
+        }
+      ],
+      "must_visit_places": [
+        "Amsterdam",
+        "Keukenhof Gardens",
+        "Zaanse Schans",
+        "Giethoorn",
+        "Kinderdijk"
+      ],
+      "tags": [
+        "flat landscape",
+        "picturesque canals",
+        "iconic windmills",
+        "rich history",
+        "artistic heritage"
+      ]
+    },
+    {
+      "title": "Poland",
+      "imageName": "polonia.jpg",
+      "continent": "Europe",
+      "about": "Poland is a country located in Central Europe known for its rich history, stunning architecture, and vibrant cultural scene. From the medieval old town of Krakow to the modern capital of Warsaw, Poland offers travelers a diverse range of experiences. The country is also celebrated for its delicious cuisine, warm hospitality, and natural beauty, including the picturesque Tatra Mountains and the Baltic Sea coastline.",
+      "curiosities": [
+        {
+          "topic": "Dress Code",
+          "description": "Poland has a casual dress code, with practical and weather-appropriate clothing being the norm. In urban areas like Krakow and Warsaw, smart casual attire is common, while in rural regions, outdoor gear is suitable for activities like hiking and sightseeing."
+        },
+        {
+          "topic": "Safety at Night",
+          "description": "Poland is generally safe at night, with low crime rates and well-lit streets in urban areas. However, travelers should take common-sense precautions, especially in tourist areas and crowded places."
+        },
+        {
+          "topic": "LGBT Safety",
+          "description": "Poland's attitudes towards the LGBT community are conservative, and same-sex relationships are not widely accepted. LGBT travelers should exercise discretion and avoid public displays of affection, especially in more rural areas."
+        },
+        {
+          "topic": "Public Transportation",
+          "description": "Poland has a well-developed public transportation system, including trains, buses, trams, and metros. Ticketing is generally easy, and services are reliable, making it convenient for travelers to explore the country."
+        },
+        {
+          "topic": "Healthcare System",
+          "description": "Poland has a universal healthcare system that provides medical services to residents and visitors alike. The country is known for its modern hospitals, well-trained medical professionals, and affordable healthcare costs."
+        }
+      ],
+      "must_visit_places": [
+        "Krakow",
+        "Warsaw",
+        "Wroclaw",
+        "Gdansk",
+        "Auschwitz-Birkenau Memorial and Museum"
+      ],
+      "tags": [
+        "rich history",
+        "stunning architecture",
+        "vibrant cultural scene",
+        "delicious cuisine",
+        "natural beauty"
+      ]
+    },
+    {
+      "title": "Czech Republic",
+      "imageName": "republica-checa.jpg",
+      "continent": "Europe",
+      "about": "The Czech Republic, located in Central Europe, is known for its picturesque castles, charming old towns, and rich cultural heritage. From the fairytale city of Prague with its Gothic architecture to the spa towns of Karlovy Vary and Český Krumlov's medieval streets, the Czech Republic offers travelers a journey back in time. The country is also celebrated for its beer culture, classical music, and outdoor adventures.",
+      "curiosities": [
+        {
+          "topic": "Dress Code",
+          "description": "The Czech Republic has a casual dress code, with practical and comfortable clothing being the norm. In urban areas like Prague, smart casual attire is common, while in rural regions, outdoor gear is suitable for activities like hiking and sightseeing."
+        },
+        {
+          "topic": "Safety at Night",
+          "description": "The Czech Republic is generally safe at night, with low crime rates in most areas. However, travelers should take common-sense precautions, especially in tourist areas and crowded places."
+        },
+        {
+          "topic": "LGBT Safety",
+          "description": "The Czech Republic is known for its relatively tolerant attitudes towards the LGBT community, with legal protections and a growing acceptance. Cities like Prague have vibrant LGBT scenes and inclusive communities."
+        },
+        {
+          "topic": "Public Transportation",
+          "description": "The Czech Republic has an efficient public transportation system, including trains, trams, buses, and metros. Prague's metro system is particularly convenient for getting around the city, while trains connect major cities and regions."
+        },
+        {
+          "topic": "Healthcare System",
+          "description": "The Czech Republic has a universal healthcare system that provides medical services to residents and visitors alike. The country is known for its modern hospitals, well-trained medical professionals, and affordable healthcare costs."
+        }
+      ],
+      "must_visit_places": [
+        "Prague Castle",
+        "Charles Bridge",
+        "Český Krumlov",
+        "Karlovy Vary",
+        "Kutná Hora"
+      ],
+      "tags": [
+        "picturesque castles",
+        "charming old towns",
+        "rich cultural heritage",
+        "beer culture",
+        "classical music"
+      ]
+    },
+    {
+      "title": "Seychelles",
+      "imageName": "seychelles.jpg",
+      "continent": "Africa",
+      "about": "Seychelles is an archipelago of 115 islands in the Indian Ocean known for its stunning beaches, crystal-clear waters, and lush tropical landscapes. From the granite boulders of La Digue to the pristine coral reefs of Aldabra Atoll, Seychelles offers travelers a paradise escape. The country is also celebrated for its rich biodiversity, vibrant Creole culture, and eco-friendly tourism initiatives.",
+      "curiosities": [
+        {
+          "topic": "Dress Code",
+          "description": "Seychelles has a relaxed dress code, with lightweight and casual clothing being the norm. Beachwear is acceptable for most occasions, but visitors should cover up when entering religious sites or dining in upscale restaurants."
+        },
+        {
+          "topic": "Safety at Night",
+          "description": "Seychelles is generally safe at night, with low crime rates and a strong police presence in tourist areas. However, travelers should take common-sense precautions and avoid isolated areas after dark."
+        },
+        {
+          "topic": "LGBT Safety",
+          "description": "Seychelles is relatively tolerant towards the LGBT community, but attitudes may vary in more rural areas. LGBT travelers should exercise discretion and respect local customs and traditions."
+        },
+        {
+          "topic": "Public Transportation",
+          "description": "Seychelles has limited public transportation options, with taxis and rental cars being the primary modes of getting around. Ferries and domestic flights are available for inter-island travel, offering convenient access to different parts of the archipelago."
+        },
+        {
+          "topic": "Healthcare System",
+          "description": "Seychelles has a public healthcare system that provides basic medical services to residents and visitors alike. Private healthcare facilities offer higher standards of care, but travelers should have comprehensive travel insurance to cover any medical emergencies."
+        }
+      ],
+      "must_visit_places": [
+        "Anse Lazio, Praslin",
+        "La Digue",
+        "Valle de Mai",
+        "Mahe Island",
+        "Aldabra Atoll"
+      ],
+      "tags": [
+        "stunning beaches",
+        "lush tropical landscapes",
+        "rich biodiversity",
+        "vibrant Creole culture",
+        "eco-friendly tourism"
+      ]
+    },
+    {
+      "title": "Singapore",
+      "imageName": "singapura.jpg",
+      "continent": "Ásia",
+      "about": "Singapore is a city-state located at the southern tip of the Malay Peninsula known for its modern skyline, multicultural heritage, and efficient infrastructure. From the futuristic Gardens by the Bay to the historic neighborhoods of Chinatown and Little India, Singapore offers travelers a dynamic blend of old-world charm and contemporary sophistication. The country is also celebrated for its culinary scene, shopping districts, and green spaces.",
+      "curiosities": [
+        {
+          "topic": "Dress Code",
+          "description": "Singapore has a diverse dress code influenced by its multicultural population. While casual attire is acceptable for most occasions, visitors should dress modestly when visiting religious sites and upscale venues."
+        },
+        {
+          "topic": "Safety at Night",
+          "description": "Singapore is generally safe at night, with low crime rates and well-lit streets in urban areas. However, travelers should remain vigilant, especially in crowded places and tourist hotspots."
+        },
+        {
+          "topic": "LGBT Safety",
+          "description": "Singapore has conservative attitudes towards the LGBT community, and same-sex relationships are not widely accepted. LGBT travelers should exercise discretion and avoid public displays of affection."
+        },
+        {
+          "topic": "Public Transportation",
+          "description": "Singapore has a world-class public transportation system, including trains, buses, and taxis, that makes it easy to navigate the city. The Mass Rapid Transit (MRT) network is efficient and convenient for traveling to various attractions and neighborhoods."
+        },
+        {
+          "topic": "Healthcare System",
+          "description": "Singapore has a highly developed healthcare system that provides medical services to residents and visitors alike. The country is known for its modern hospitals, advanced medical technology, and high standards of care."
+        }
+      ],
+      "must_visit_places": [
+        "Marina Bay Sands",
+        "Gardens by the Bay",
+        "Sentosa Island",
+        "Chinatown",
+        "Little India"
+      ],
+      "tags": [
+        "modern skyline",
+        "multicultural heritage",
+        "efficient infrastructure",
+        "culinary scene",
+        "green spaces"
+      ]
+    },
+    {
+      "title": "Sweden",
+      "imageName": "suecia.jpg",
+      "continent": "Europe",
+      "about": "Sweden is a Scandinavian country located in Northern Europe known for its stunning natural landscapes, vibrant cities, and progressive social policies. From the historic streets of Gamla Stan in Stockholm to the Northern Lights in Swedish Lapland, Sweden offers travelers a diverse range of experiences. The country is also celebrated for its design culture, outdoor activities, and emphasis on sustainability.",
+      "curiosities": [
+        {
+          "topic": "Dress Code",
+          "description": "Sweden has a casual dress code, with practical and weather-appropriate clothing being the norm. In urban areas like Stockholm and Gothenburg, smart casual attire is common, while outdoor gear is suitable for activities like hiking and skiing."
+        },
+        {
+          "topic": "Safety at Night",
+          "description": "Sweden is generally safe at night, with low crime rates and well-lit streets in urban areas. However, travelers should take common-sense precautions, especially in tourist areas and nightlife districts."
+        },
+        {
+          "topic": "LGBT Safety",
+          "description": "Sweden is known for its progressive attitudes towards the LGBT community, with strong legal protections and a welcoming atmosphere. Cities like Stockholm have vibrant LGBT scenes and inclusive communities."
+        },
+        {
+          "topic": "Public Transportation",
+          "description": "Sweden has an extensive public transportation network, including trains, buses, trams, and ferries. The country's train system connects major cities and regions, while buses and trams are convenient for local travel."
+        },
+        {
+          "topic": "Healthcare System",
+          "description": "Sweden has a universal healthcare system that provides medical services to residents and visitors alike. The country is known for its modern hospitals, well-trained medical professionals, and emphasis on preventive care."
+        }
+      ],
+      "must_visit_places": [
+        "Stockholm",
+        "Gothenburg",
+        "Swedish Lapland",
+        "Gotland",
+        "Skåne"
+      ],
+      "tags": [
+        "stunning natural landscapes",
+        "vibrant cities",
+        "progressive social policies",
+        "design culture",
+        "outdoor activities"
+      ]
+    },
+    {
+      "title": "Switzerland",
+      "imageName": "suica.jpg",
+      "continent": "Europe",
+      "about": "Switzerland is a landlocked country located in Central Europe known for its breathtaking Alpine scenery, historic cities, and chocolate culture. From the snow-capped peaks of the Swiss Alps to the pristine lakeside towns of Lucerne and Montreux, Switzerland offers travelers a postcard-perfect experience. The country is also celebrated for its precision engineering, efficient public transportation, and outdoor recreational opportunities.",
+      "curiosities": [
+        {
+          "topic": "Dress Code",
+          "description": "Switzerland has a casual dress code, with practical and weather-appropriate clothing being the norm. In urban areas like Zurich and Geneva, smart casual attire is common, while outdoor gear is suitable for activities like skiing and hiking."
+        },
+        {
+          "topic": "Safety at Night",
+          "description": "Switzerland is generally safe at night, with low crime rates and well-lit streets in urban areas. However, travelers should take common-sense precautions, especially in tourist areas and nightlife districts."
+        },
+        {
+          "topic": "LGBT Safety",
+          "description": "Switzerland is known for its progressive attitudes towards the LGBT community, with strong legal protections and a welcoming atmosphere. Cities like Zurich and Basel have vibrant LGBT scenes and inclusive communities."
+        },
+        {
+          "topic": "Public Transportation",
+          "description": "Switzerland has an efficient public transportation system, including trains, buses, trams, and boats. The country's extensive rail network connects major cities and regions, while buses and trams are convenient for local travel."
+        },
+        {
+          "topic": "Healthcare System",
+          "description": "Switzerland has a universal healthcare system that provides medical services to residents and visitors alike. The country is known for its high-quality healthcare facilities, well-trained medical professionals, and emphasis on health and wellness."
+        }
+      ],
+      "must_visit_places": [
+        "Swiss Alps",
+        "Zurich",
+        "Geneva",
+        "Lucerne",
+        "Interlaken"
+      ],
+      "tags": [
+        "breathtaking Alpine scenery",
+        "historic cities",
+        "chocolate culture",
+        "precision engineering",
+        "outdoor recreational opportunities"
+      ]
+    },
+    {
+      "title": "Thailand",
+      "imageName": "tailandia.jpg",
+      "continent": "Asia",
+      "about": "Thailand, located in Southeast Asia, is known for its vibrant culture, stunning beaches, and bustling cities. From the ancient temples of Bangkok to the tropical islands of Phuket and Koh Samui, Thailand offers travelers a diverse range of experiences. The country is also celebrated for its delicious cuisine, rich history, and warm hospitality.",
+      "curiosities": [
+        {
+          "topic": "Dress Code",
+          "description": "Thailand has a casual dress code, with lightweight and comfortable clothing being the norm. Visitors should dress modestly when visiting temples and religious sites, covering shoulders and knees out of respect for local customs."
+        },
+        {
+          "topic": "Safety at Night",
+          "description": "Thailand is generally safe at night, with low crime rates in most areas. However, travelers should take common-sense precautions, especially in tourist areas and crowded places."
+        },
+        {
+          "topic": "LGBT Safety",
+          "description": "Thailand is relatively tolerant towards the LGBT community, with a vibrant LGBT scene in cities like Bangkok and Phuket. However, public displays of affection should be avoided, especially in more conservative areas."
+        },
+        {
+          "topic": "Public Transportation",
+          "description": "Thailand has a well-developed public transportation system, including buses, trains, and boats, that makes it easy to explore the country. Tuk-tuks and taxis are also popular options for short-distance travel in urban areas."
+        },
+        {
+          "topic": "Healthcare System",
+          "description": "Thailand has both public and private healthcare facilities that provide medical services to residents and visitors alike. The country is known for its affordable healthcare costs, especially in comparison to Western countries."
+        }
+      ],
+      "must_visit_places": [
+        "Bangkok",
+        "Chiang Mai",
+        "Phuket",
+        "Ayutthaya",
+        "Koh Phi Phi"
+      ],
+      "tags": [
+        "vibrant culture",
+        "stunning beaches",
+        "bustling cities",
+        "delicious cuisine",
+        "rich history"
+      ]
+    },
+    {
+      "title": "Taiwan",
+      "imageName": "taiwan.jpg",
+      "continent": "Asia",
+      "about": "Taiwan, officially known as the Republic of China, is an island nation located in East Asia known for its modern cities, scenic landscapes, and vibrant culture. From the bustling streets of Taipei to the lush forests of Taroko National Park, Taiwan offers travelers a unique blend of tradition and innovation. The country is also celebrated for its street food, night markets, and friendly locals.",
+      "curiosities": [
+        {
+          "topic": "Dress Code",
+          "description": "Taiwan has a casual dress code, with comfortable and practical clothing being the norm. Visitors should dress modestly when visiting temples and religious sites, covering shoulders and knees out of respect for local customs."
+        },
+        {
+          "topic": "Safety at Night",
+          "description": "Taiwan is generally safe at night, with low crime rates in most areas. However, travelers should take common-sense precautions, especially in tourist areas and crowded places."
+        },
+        {
+          "topic": "LGBT Safety",
+          "description": "Taiwan is relatively progressive towards the LGBT community, with same-sex marriage legalized in 2019. The country has a growing LGBT scene, particularly in cities like Taipei, but public displays of affection should be approached with discretion."
+        },
+        {
+          "topic": "Public Transportation",
+          "description": "Taiwan has a well-developed public transportation system, including trains, buses, and metros, that makes it easy to get around. The High-Speed Rail (HSR) network connects major cities, while buses and metros are convenient for local travel."
+        },
+        {
+          "topic": "Healthcare System",
+          "description": "Taiwan has a universal healthcare system that provides affordable medical services to residents and visitors alike. The country is known for its high-quality healthcare facilities, well-trained medical professionals, and efficient healthcare delivery."
+        }
+      ],
+      "must_visit_places": [
+        "Taipei 101",
+        "Taroko National Park",
+        "Sun Moon Lake",
+        "Kenting National Park",
+        "Jiufen Old Street"
+      ],
+      "tags": [
+        "modern cities",
+        "scenic landscapes",
+        "vibrant culture",
+        "street food",
+        "friendly locals"
+      ]
+    },
+    {
+      "title": "Uruguay",
+      "imageName": "uruguai.jpg",
+      "continent": "South America",
+      "about": "Uruguay is a country located in the southern region of South America, known for its beautiful beaches, charming cities, and vibrant culture. From the stunning beaches of Punta del Este to the historic streets of Colonia del Sacramento, Uruguay offers travelers a unique blend of natural landscapes and cultural heritage. The country is also celebrated for its high-quality beef, delicious wine, and the welcoming spirit of its people.",
+      "curiosities": [
+        {
+          "topic": "Dress Code",
+          "description": "Uruguay has a casual dress code, with lightweight and comfortable clothing being the norm. In cities like Montevideo and Punta del Este, dressier attire is common in the evenings, especially in upscale restaurants and bars."
+        },
+        {
+          "topic": "Safety at Night",
+          "description": "Uruguay is generally safe at night, with low crime rates in most areas. However, travelers should take basic safety precautions, especially in tourist areas and during the night."
+        },
+        {
+          "topic": "LGBT Safety",
+          "description": "Uruguay is considered one of the most LGBT-friendly countries in South America. Montevideo, in particular, has a vibrant LGBT scene, and the country has progressive laws that protect the rights of LGBT individuals."
+        },
+        {
+          "topic": "Public Transportation",
+          "description": "Uruguay has a limited public transportation system, with buses being the primary mode of transportation in cities. Taxis and ride-sharing apps are also available, but travelers may find it more convenient to rent a car to explore the country."
+        },
+        {
+          "topic": "Healthcare System",
+          "description": "Uruguay has both public and private healthcare systems that offer medical services to residents and visitors. While healthcare services are generally of high quality, travelers should purchase health insurance to cover any medical expenses during their stay."
+        }
+      ],
+      "must_visit_places": [
+        "Montevideo",
+        "Punta del Este",
+        "Colonia del Sacramento",
+        "Piriápolis",
+        "Cabo Polonio"
+      ],
+      "tags": [
+        "beautiful beaches",
+        "charming cities",
+        "vibrant culture",
+        "high-quality beef",
+        "delicious wine"
+      ]
+    },
+    {
+      "title": "Vietnam",
+      "imageName": "vietname.jpg",
+      "continent": "Asia",
+      "about": "Vietnam, located in Southeast Asia, is known for its rich history, breathtaking landscapes, and delicious cuisine. From the ancient temples of Hanoi to the stunning bays of Halong, Vietnam offers travelers a fascinating mix of tradition and modernity. The country is also celebrated for its vibrant culture, bustling markets, and hospitable people.",
+      "curiosities": [
+        {
+          "topic": "Dress Code",
+          "description": "Vietnam has a modest dress code, especially when visiting religious sites. It's advisable for visitors to cover their shoulders and knees when entering temples and sacred places."
+        },
+        {
+          "topic": "Safety at Night",
+          "description": "Vietnam is generally safe at night, with low crime rates in most areas. However, travelers should take basic safety precautions, especially in tourist areas and during the night."
+        },
+        {
+          "topic": "LGBT Safety",
+          "description": "Vietnam is progressive regarding the LGBT community, but attitudes may vary in different regions. Major cities like Hanoi and Ho Chi Minh City have a growing LGBT scene, but discretion is advised in more conservative areas."
+        },
+        {
+          "topic": "Public Transportation",
+          "description": "Vietnam has a public transportation system that includes buses, trains, and taxis. Motorbikes and bicycles are also popular means of transportation in cities, offering a unique way to explore the surroundings."
+        },
+        {
+          "topic": "Healthcare System",
+          "description": "Vietnam has a healthcare system that provides medical services to residents and visitors. While public hospitals are accessible, many travelers prefer seeking treatment at private hospitals, which offer higher standards and English-speaking professionals."
+        }
+      ],
+      "must_visit_places": [
+        "Hanoi",
+        "Halong Bay",
+        "Ho Chi Minh City",
+        "Hoi An",
+        "Da Nang"
+      ],
+      "tags": [
+        "rich history",
+        "breathtaking landscapes",
+        "delicious cuisine",
+        "vibrant culture",
+        "hospitable people"
+      ]
+    }
+  ]

@@ -3,8 +3,8 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    width: 100%;
-    height: 221px;
+    width: 43rem;
+    height: 190px;
     border-radius: 0 0 40px 40px;
     background-color: var(--card-color);
     gap: 3rem;

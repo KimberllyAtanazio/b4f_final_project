@@ -1,0 +1,26 @@
+.container {
+  width: 430px;
+  height: 929px;
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+}
+
+.countryCard {
+  display: flex;
+  flex-wrap: wrap;
+  padding-bottom: 8rem;
+  margin: 0 1rem;
+}
+
+.countryCard > * {
+  flex: 1 1; 
+  box-sizing: border-box;
+  padding: 1rem;
+}
+
+.searchForm {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

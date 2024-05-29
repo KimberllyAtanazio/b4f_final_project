@@ -1,5 +1,8 @@
+.superDiv {
+  font-family: "Inter", sans-serif;
+  
+}
 .mainDiv {
-
   background-color: #fff0f0;
   width: 430px;
   height: 403px;
@@ -21,13 +24,13 @@
 }
 
 .profilePic {
-  background-color: blue;
   width: 90px;
   height: 90px;
   border-radius: 100%;
 }
 
 .profileName {
+  margin-top: 16px;
   font-size: 24px;
   color: #3c1e42;
 }
@@ -36,7 +39,7 @@
   display: flex;
   flex-direction: row;
   align-items: center;
-  background-color: #f7f7f9;
+  background-color: #ffffff;
   width: 330px;
   height: 78px;
   margin-top: 46px;
@@ -46,54 +49,84 @@
   padding: 16px;
 }
 
-.rewardPoints, .travelTrips, .bucketList{
+.profileInfoData {
+  flex-direction: column;
+}
+
+.rewardPoints,
+.travelTrips,
+.bucketList {
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  font-size: 13px;
+  font-weight: 700;
   color: #3c1e42;
-  margin-left: 16px;
-  margin-right: 16px;
-  margin-bottom: 16px;
+  margin-right: 10px;
+  margin-left: 10px;
+  height: 46px;
+  width: 100%;
+  padding: 5px;
 }
 
-.bookmarkedDiv {
+.randomNumbers {
   display: flex;
-  font-size: 16px;
+  justify-content: center;
+  font-weight: bolder;
+  color: #c4c4c4;
+}
+
+.verticalLine {
+  margin: 3px;
+  height: 78px;
+}
+
+.profileOptions {
+  margin-top: 40px;
+  margin-left: 50px;
+  margin-right: 50px;
   background-color: #f7f7f9;
-  width: 334px;
-  height: 63px;
-  justify-content: left;
-  align-items: center;
-  padding: 10px;
-  margin-top: 20px;
-  margin-left: 45px;
-  margin-right: 45px;
+  border-radius: 16px;
 }
 
-.icon {
-  margin-left: 9px;
-  margin-right: 9px;
-}
-
-.tripsDiv {
-  display: flex;
-  font-size: 16px;
-  background-color: #f7f7f9;
-  width: 334px;
-  height: 63px;
-  justify-content: left;
-  align-items: center;
-  padding: 10px;
-  margin-left: 45px;
-  margin-right: 45px;
-}
-
+.bookmarkedDiv,
+.previousTripsDiv,
 .settingsDiv {
   display: flex;
   font-size: 16px;
-  background-color: #f7f7f9;
+
+  width: 320px;
+  height: 63px;
+  justify-content: left;
+  align-items: center;
+  padding: 10px;
+  padding-right:15px;
+  margin-right: 50px;
+}
+
+.bookmarkedIcon {
+  padding-left: 20px;
+  margin-right: 14px;
+  width: 5%;
+}
+
+.rightArrow {
+  display: flex;
+  justify-content: right;
+  padding-right: 30px;
+  width: 24px;
+}
+
+.bookmarkedText,
+.tripsDiv,
+.settingsTextDiv {
+  display: flex;
+  font-size: 16px;
   width: 334px;
   height: 63px;
   justify-content: left;
   align-items: center;
   padding: 10px;
-  margin-left: 45px;
-  margin-right: 45px;
+  margin-left: 8px;
+  margin-right: 10px;
 }

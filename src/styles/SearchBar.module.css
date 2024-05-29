@@ -1,0 +1,32 @@
+.searchContainer {
+  position: relative;
+  width: 29.2rem;
+}
+
+.searchform {
+  border: 1px solid;
+  border-color: #e6e6e9;
+  border-radius: 4rem;
+  height: 41px;
+  width: 100%;
+  padding: 1.2rem 3.8rem 1.2rem 1.2rem;
+  background-color: #f7f7f9;
+  color: #3c1e42;
+  font-family: 'Inter', sans-serif;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.searchform::placeholder {
+  font-size: 1.2rem;
+  font-family: 'Inter', sans-serif;
+}
+
+.searchIcon {
+  position: absolute;
+  right: 1.2rem;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #9ca3af;
+  pointer-events: none;
+  padding: 3px;
+}
