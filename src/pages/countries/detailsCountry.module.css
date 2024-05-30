@@ -1,0 +1,137 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.image {
+    width: 43rem;
+    height: 43rem;
+}
+
+.backButton {
+    position: absolute;
+    background-size: cover;
+    width: 4.4rem;
+    height: 4.4rem;
+    margin-top: 2rem;
+    margin-left: 2rem;
+    border-radius: 50%;
+    border: none;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.card {
+    width: 430px;
+    height: 65vh;
+    position: fixed;
+    bottom: 0;
+    background-color: #ffffff;
+    border-radius: 32px 32px 0 0;
+    box-shadow: 0 -4px 6px rgba(0, 0, 0, 0.1);
+    box-sizing: border-box;
+    overflow: auto;
+    font-family: "Inter", sans-serif;
+    padding-left: 4rem;
+    padding-right: 4rem;
+    padding-bottom: 8rem;
+}
+
+.retangle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1.6rem;
+    margin-bottom: 3.6rem;
+}
+
+.title {
+    font-size: 2.4rem;
+    font-weight: 600;
+    color: var(--title-color)
+}
+
+.continent {
+    display: flex;
+    font-size: 1.5rem;
+    margin-top: 3.6rem;
+    color: #7D848D;
+    gap: 4px
+}
+
+.listCard {
+    list-style: none;
+    margin-top: 15px;
+}
+
+.listTags {
+    background: var(--card-color);
+    border-radius: 20px;
+    display: inline-block;
+    margin: 0 10px 10px 0;
+    padding: 10px;
+    font-size: 1.3rem;
+    color: var(--title-color);
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    text-transform: capitalize;
+}
+
+.about,
+.places {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-top: 15px;
+}
+
+.about h1,
+.places {
+    font-size: 2rem;
+    color: var(--title-color);
+    font-weight: 600;
+}
+
+.about p,
+.placesInfos {
+    font-size: 1.3rem;
+    color: #7D848D;
+    line-height: 22px;
+}
+
+.curiosities {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+.curiosities h2 {
+    font-size: 1.8rem;
+    color: var(--title-color);
+    font-weight: 600;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.curiosities p {
+    font-size: 1.3rem;
+    color: #7D848D;
+    margin-right: 35px;
+    line-height: 20px;
+}
+
+.placeList {
+    list-style-position: inside;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+.placesBox {
+    margin-bottom: 50px;
+}

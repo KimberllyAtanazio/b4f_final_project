@@ -1,0 +1,15 @@
+
+.filterButton {
+    position: relative;
+    display: inline-block;
+}
+
+.filterButton select {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0; /* Torna a caixa de seleção invisível */
+    width: 100%; 
+    height: 100%;
+    cursor: pointer;
+}
