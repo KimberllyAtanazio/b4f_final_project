@@ -1,5 +1,5 @@
 .searchContainer {
-  position: relative;
+  display: flex;
   width: 29.2rem;
 }
 
@@ -22,11 +22,6 @@
 }
 
 .searchIcon {
-  position: absolute;
-  right: 1.2rem;
-  top: 50%;
-  transform: translateY(-50%);
   color: #9ca3af;
-  pointer-events: none;
   padding: 3px;
 }

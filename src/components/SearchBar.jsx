@@ -93,9 +93,7 @@ import { SearchIcon } from '../../public/icons/SearchIcon';
 import styles from '../styles/SearchBar.module.css';
 import { useState } from 'react';
 
-export default function SearchForm() {
-  const [search, setSearch] = useState('');
-
+export default function SearchForm({ search, setSearch, onSearchValues }) {
   return (
     <div className={styles.searchContainer}>
       <input
@@ -104,13 +102,12 @@ export default function SearchForm() {
         type="search"
         onChange={(e) => setSearch(e.target.value)}
       />
-      <div className={styles.searchIcon}>
+      <button className={styles.searchIcon} onClick={onSearchValues}>
         <SearchIcon color={'#203B3F'} />
-      </div>
+      </button>
     </div>
   );
 }
-
 
 // Endpoint que recebe um valor (nome do país) e o objeto deve fazer um find e buscar todos que tenham aquele nome.
 // Botão que acionado faz um fetch ao endpoint
