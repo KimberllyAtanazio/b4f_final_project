@@ -27,7 +27,7 @@ function LoginForm({ onLogin }) {
 
       if (res.ok) {
         console.log('Login successful');
-        router.push('/home');
+        router.push('/profile');
       } else {
         setError(data.message || 'An error occurred. PLease try again.');
       }

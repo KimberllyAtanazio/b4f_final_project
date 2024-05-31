@@ -8,7 +8,7 @@ export default function Profile() {
         <div className={styles.profileData}>
           <div className={styles.profilePic}>
             <img
-              src={'/icons/profilePicture.png'}
+              src={'/icons/profile-picture.svg'}
               alt="User Icon"
               className={styles.icon}
             />
@@ -24,7 +24,7 @@ export default function Profile() {
           </div>
           <div className={styles.verticalLine}>
             <img
-              src={'/icons/verticalLine.png'}
+              src={'/icons/verticalLine.svg'}
               alt="vertical line"
               className={styles.verticalLine}
             />
@@ -35,7 +35,7 @@ export default function Profile() {
           </div>
           <div className={styles.verticalLine}>
             <img
-              src={'/icons/verticalLine.png'}
+              src={'/icons/verticalLine.svg'}
               alt="vertical line"
               className={styles.verticalLine}
             />
@@ -46,7 +46,7 @@ export default function Profile() {
           </div>
         </div>
       </div>
-      
+
       <div>
         <ShareLocationButton />
       </div>
@@ -55,7 +55,7 @@ export default function Profile() {
         <div className={styles.bookmarkedDiv}>
           <div className={styles.bookmarkedIcon}>
             <img
-              src={'/icons/bookmarkIcon.png'}
+              src={'/icons/bookmarked-icon.svg'}
               alt="User Icon"
               className={styles.icon}
             />
@@ -64,7 +64,7 @@ export default function Profile() {
 
           <div className={styles.rightArrow}>
             <img
-              src={'/icons/arrowRightIcon.png'}
+              src={'/icons/arrow-right-icon.svg'}
               alt="arrow Icon"
               className={styles.icon}
             />
@@ -74,7 +74,7 @@ export default function Profile() {
         <div className={styles.previousTripsDiv}>
           <div className={styles.bookmarkedIcon}>
             <img
-              src={'/icons/tripsIcon.png'}
+              src={'/icons/trips-icon.svg'}
               alt="trips Icon"
               className={styles.icon}
             />
@@ -82,7 +82,7 @@ export default function Profile() {
           <div className={styles.tripsDiv}>Previous Trips</div>
           <div className={styles.rightArrow}>
             <img
-              src={'/icons/arrowRightIcon.png'}
+              src={'/icons/arrow-right-icon.svg'}
               alt="arrow Icon"
               className={styles.icon}
             />
@@ -92,7 +92,7 @@ export default function Profile() {
         <div className={styles.settingsDiv}>
           <div className={styles.bookmarkedIcon}>
             <img
-              src={'/icons/settingsIcon.png'}
+              src={'/icons/settings-icon.svg'}
               alt="trips Icon"
               className={styles.icon}
             />
@@ -100,7 +100,7 @@ export default function Profile() {
           <div className={styles.settingsTextDiv}>Settings</div>
           <div className={styles.rightArrow}>
             <img
-              src={'/icons/arrowRightIcon.png'}
+              src={'/icons/arrow-right-icon.svg'}
               alt="arrow Icon"
               className={styles.icon}
             />

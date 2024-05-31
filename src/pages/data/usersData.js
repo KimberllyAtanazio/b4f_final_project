@@ -13,3 +13,4 @@ export async function insertUser(user) {
   const result = await client.insertOne(user);
   return result.insertedId;
 }
+

@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import styles from '../styles/SignUpForm.module.css';
 import LoginForm from './LoginForm';
+import { useRouter } from 'next/router';
 
 function SignupForm() {
   const [username, setUsername] = useState('');
@@ -8,6 +9,7 @@ function SignupForm() {
   const [password, setPassword] = useState('');
   const [error, setError] = useState('');
   const [showLogin, setShowLogin] = useState(false);
+  const router = useRouter();
 
   const handleSignup = async (e) => {
     e.preventDefault();
@@ -29,6 +31,8 @@ function SignupForm() {
         // ou fazer qualquer outra ação necessária
 
         console.log('Signup successful');
+        // router.push('/profile'); CRIAR ROTA PARA ALGUM LUGAR
+        
       } else {
         // Se ocorrer algum erro durante a criação do usuário, defina a mensagem de erro
         setError(data.message || 'An error occurred. Please try again.');
