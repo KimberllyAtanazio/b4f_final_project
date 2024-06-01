@@ -5,19 +5,20 @@ import { DetailCardIcon } from '@/../public/icons/DetailCardIcon';
 import { LocationIcon } from '@/../public/icons/LocationIcon';
 import { BackIcon } from '@/../public/icons/BackIcon';
 import NavBar from '@/components/NavBar';
+import Loading from '@/components/Loading';
 
 export default function DetailsCountry() {
   const router = useRouter();
   const { title } = router.query;
 
   if (!title) {
-    return <>LOADING</>;
+    return <Loading />;
   }
 
   const pais = paises.find((e) => e.title === title);
 
   if (!pais) {
-    return <>LOADING</>;
+    return <Loading />;
   }
 
   return (

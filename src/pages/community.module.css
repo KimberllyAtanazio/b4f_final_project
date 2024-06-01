@@ -1,0 +1,42 @@
+.header h1 {
+    font-family: 'Inter', sans-serif;
+    font-size: 2rem;
+    font-weight: 600;
+    margin: 4rem 0 0 4rem;
+    color: var(--title-color)
+}
+
+.postCard{
+    padding-bottom: 1rem;
+}
+
+.searchForm{
+    margin-top: 3rem;
+    margin-left: 4rem;
+}
+
+.createPostButton {
+    position: fixed;
+    bottom: 11rem;
+    right: 2rem;
+    z-index: 1000; /* Garante que o botão apareça acima de outros elementos */
+    display: inline-block;
+    color: #ffffff;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 50px;
+    font-size: 24px;
+    text-decoration: none;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .createPostButton button {
+    background: none;
+    border: none;
+    padding: 0;
+    margin: 0;
+    cursor: pointer;
+  }
+  

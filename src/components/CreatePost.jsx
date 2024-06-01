@@ -28,7 +28,7 @@ export default function CreatePost() {
 
       if (res.ok) {
         console.log('Post criado com sucesso');
-        router.push("/profile");
+        router.push("/community");
       } else {
         setError(data.message || "An error occurred. Please try again.");
       }
