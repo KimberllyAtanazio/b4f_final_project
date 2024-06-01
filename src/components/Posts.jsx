@@ -1,58 +1,31 @@
-//import Tweet  from '../home/tweet.child';
+import React from 'react';
+import styles from "@/styles/Posts.module.css"
+import Loading from './Loading';
 
-// export default function ListPosts() {
-//   return (
-    // <div className="comments">
-    //   {posts.map((post) => (
-    //     <Tweet key={post.id}>
-    //       <img src={`/images/${posts.imageName}`} alt={posts.title} />
-    //       <h2>{post.title}</h2>
-    //       <p>{post.content}</p>
-    //       <p>{post.date}</p>
-    //     </Tweet>
+export default function ListPosts({ posts, search }) {
+  // Filtrar os posts pelo título antes de renderizar
+  const filteredPosts = posts.filter((post) =>
+    post.title.toLowerCase().includes(search.toLowerCase())
+  );
 
-//       ))}
-//     </div>
-//   );
-// }
+  // Ordenar os posts pela data, mais recentes primeiro
+  const sortedPosts = filteredPosts.sort((a, b) => new Date(b.date) - new Date(a.date));
 
-import React, { useState, useEffect } from 'react';
-
-export default function ListPosts() {
-  const [posts, setPosts] = useState(undefined);
-
-  useEffect(() => {
-    const fetchPosts = async () => {
-      const postsData = await fetch('/api/posts', {
-        method: 'GET',
-      });
-      const res = await postsData.json();
-      setPosts(res);
-    };
-    fetchPosts();
-  }, []);
-
-  // return (
-  //   <div className="post-list">
-  //     {posts.map((post) => (
-  //       <Post key={post._id} post={post} />
-  //     ))}
-  //   </div>
-  // );
-
-return (
-  <div className="post-list">
-    {posts && posts.length > 0 ? (
-      posts.map((post) => (
-        <div key={post.id} className="comments">
-          <h2>{post.title}</h2>
-          {/* <img src={`/images/${post.imageName}`} alt={post.title} /> */}
-          <p>{post.content}</p>
-          <p>{post.date}</p>
-        </div>
-      ))
-    ) : (
-      <p>Loading posts...</p>
-    )}
-  </div>
-)}
+  return (
+    <div className={styles.cardPosts}>
+      {sortedPosts && sortedPosts.length > 0 ? (
+        sortedPosts.map((post) => (
+          <div key={post.id} className="comments">
+            <h2 className={styles.title}>{post.title}</h2>
+            {/* <img src={`/images/${post.imageName}`} alt={post.title} /> */}
+            <p>{post.content}</p>
+            <p>{post.date}</p>
+            <hr />
+          </div>
+        ))
+      ) : (
+        <Loading />
+      )}
+    </div>
+  );
+}

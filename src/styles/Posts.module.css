@@ -1,0 +1,12 @@
+.cardPosts {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    font-family: "INter", sans-serif;
+    overflow: scroll;
+}
+
+.title {
+    font-size: 1.8rem;
+    color: var(--title-color)
+}

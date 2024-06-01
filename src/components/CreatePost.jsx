@@ -1,6 +1,8 @@
 import React, { useState } from "react";
 import { useRouter } from "next/router";
-import styles from '@/styles/SignUpForm.module.css'
+import styles from '@/styles/CreatePost.module.css'
+import { BackIcon } from '@/../public/icons/BackIcon';
+
 
 export default function CreatePost() {
   const [title, setTitle] = useState('');
@@ -37,12 +39,21 @@ export default function CreatePost() {
   };
 
   return (
-    <div className={styles.signupCard}>
-      <form className={styles.form} onSubmit={handlePost}>
-        <h1 className={styles.text}>New Post</h1>
+    <div>
+      <form className={styles.newPostCard} onSubmit={handlePost}>
+        <div className={styles.headerPage}>
+          <button
+            className={styles.backButton}
+            onClick={() => router.back()}
+          >
+            <BackIcon />
+          </button>
+          <h1 className={styles.titlePage}>New Post</h1>
+        </div>
+        <div className={styles.formCard}>
         <input
           type="text"
-          placeholder="Title"
+          placeholder="Post title"
           className={styles.formInput}
           value={title}
           onChange={(e) => setTitle(e.target.value)}
@@ -59,15 +70,18 @@ export default function CreatePost() {
         <textarea
           type="text"
           placeholder="Content"
-          className={styles.formInput}
+          className={styles.textInput}
           value={content}
           onChange={(e) => setContent(e.target.value)}
           required
         ></textarea>
-        <button type="submit" className={styles.signupSubmitButton}>
+
+        <button type="submit" className={styles.submitButton}>
           Submit
         </button>
-      {error && <p>{error}</p>}
+
+        {error && <p className={styles.error}>{error}</p>}
+        </div>
       </form>
     </div>
   );

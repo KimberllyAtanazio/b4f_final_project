@@ -1,0 +1,83 @@
+.newPostCard {
+  display: flex;
+  flex-direction: column;
+  font-family: "Inter", sans-serif;
+}
+
+.headerPage {
+  display: flex;
+  align-items: center;
+  margin: 5rem;
+}
+
+.titlePage {
+  color: var(--title-color);
+  font-family: 'Inter', sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  margin-left: 25%;
+}
+
+.backButton {
+  width: 4.4rem;
+  height: 4.4rem;
+  border-radius: 50%;
+  border: none;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.formCard {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3rem;
+}
+
+.formInput,
+.textInput {
+  width: 335px;
+  margin-bottom: 24px;
+  padding: 16px;
+  background-color: #F7F7F9;
+  border: 1px solid #F7F7F9;
+  border-radius: 14px;
+  font-family: "Inter", sans-serif;
+  font-size: 16px;
+  color: black;
+}
+
+.formInput {
+  height: 3rem;
+}
+
+.textInput {
+  height: 10rem;
+}
+
+.submitButton {
+  background-color: #ffb235;
+  margin-top: 300px;
+  width: 325px;
+  height: 56px;
+  padding: 10px;
+  border: none;
+  border-radius: 16px;
+  color: #3c1e42;
+  font-family: 'Inter', sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  cursor: pointer;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.4);
+}
+
+.error {
+  color: rgb(221, 2, 2);
+  margin-top: 20px;
+  font-size: 14px;
+  font-family: 'Inter', sans-serif;
+}
