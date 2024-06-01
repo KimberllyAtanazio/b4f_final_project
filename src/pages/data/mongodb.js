@@ -16,5 +16,5 @@ async function connectToMongo() {
 
 export async function getMongoCollection(collectionName) {
   const client = await connectToMongo();
-  return client.db('SheRoams').collection(collectionName);
+  return client.db('sheRoams').collection(collectionName);
 }

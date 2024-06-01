@@ -1,4 +1,4 @@
-import { getAllPosts, createPost } from '../data/postsData';
+import { getAllPosts } from '../data/postsData';
 
 // const getAllPosts = async (db) => {
 //   const collection = db.collection('posts');
@@ -17,3 +17,7 @@ export default async function handler(req, res) {
     }
   }
 }
+
+
+
+
