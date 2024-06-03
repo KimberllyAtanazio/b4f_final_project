@@ -36,14 +36,18 @@ const ShareLocationButton = () => {
   return (
     <div className={styles.container}>
       <button className={styles.button} onClick={getLocationAndShare}>
-        Share your location with other roammies!
-        <img
-          src="/shareimg.png"
-          alt="Share Icon"
-          width={15}
-          height={15}
-          className={styles.icon}
-        />
+        <div className={styles.text}>
+          Share your location with other roammies! {`:)`}
+        </div>
+        <div>
+          <img
+            src="/icons/share-icon.svg"
+            alt="Share Icon"
+            width={15}
+            height={15}
+            className={styles.icon}
+          />
+        </div>
       </button>
     </div>
   );

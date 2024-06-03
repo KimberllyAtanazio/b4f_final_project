@@ -8,12 +8,20 @@ function SignupForm() {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
   const [error, setError] = useState('');
+  const [success, setSuccess] = useState(''); // Novo estado para mensagem de sucesso
   const [showLogin, setShowLogin] = useState(false);
   const router = useRouter();
 
   const handleSignup = async (e) => {
     e.preventDefault();
     setError('');
+    setSuccess(''); // Reseta a mensagem de sucesso
+
+    // Validação no frontend
+    if (!username || !email || !password) {
+      setError('All fields are required.');
+      return;
+    }
 
     try {
       const res = await fetch('/api/signup', {
@@ -27,12 +35,17 @@ function SignupForm() {
       const data = await res.json();
 
       if (res.ok) {
-        // Se o usuário for criado com sucesso, você pode redirecionar o usuário
-        // ou fazer qualquer outra ação necessária
+        // Se o usuário for criado com sucesso, define a mensagem de sucesso
+        setSuccess('Signup successful! You will be redirected to your profile.');
+        // Limpa os campos do formulário
+        setUsername('');
+        setEmail('');
+        setPassword('');
 
-        console.log('Signup successful');
-        // router.push('/profile'); CRIAR ROTA PARA ALGUM LUGAR
-        
+        // Redireciona para a página de perfil após um curto atraso
+        setTimeout(() =>
+          router.push('/profile')
+          , 2000) // 2 segundos de atraso
       } else {
         // Se ocorrer algum erro durante a criação do usuário, defina a mensagem de erro
         setError(data.message || 'An error occurred. Please try again.');
@@ -44,8 +57,8 @@ function SignupForm() {
   };
 
   const handleLogin = () => {
-    // Aqui você pode adicionar a lógica para lidar com o clique em "Sign up"
-    setShowLogin(true); // Define showSignup como true para exibir o componente de signup
+    // Aqui você pode adicionar a lógica para lidar com o clique em "Login"
+    setShowLogin(true); // Define showLogin como true para exibir o componente de login
   };
 
   return (
@@ -58,6 +71,7 @@ function SignupForm() {
           className={styles.formInput}
           value={username}
           onChange={(e) => setUsername(e.target.value)}
+          required
         />
         <input
           type="email"
@@ -65,6 +79,7 @@ function SignupForm() {
           className={styles.formInput}
           value={email}
           onChange={(e) => setEmail(e.target.value)}
+          required
         />
         <input
           type="password"
@@ -72,11 +87,13 @@ function SignupForm() {
           className={styles.formInput}
           value={password}
           onChange={(e) => setPassword(e.target.value)}
+          required
         />
         <button type="submit" className={styles.signupSubmitButton}>
           Sign Up
         </button>
         {error && <p className={styles.error}>{error}</p>}
+        {success && <p className={styles.success}>{success}</p>} {/* Exibe a mensagem de sucesso */}
         <p className={styles.loginToggle}>
           Already have an account?{' '}
           <span onClick={handleLogin} className={styles.toggleLink}>

@@ -80,3 +80,12 @@
   font-size: 14px;
   font-family: 'Inter', sans-serif;
 }
+
+.success {
+  color: green;
+  font-size: 1rem;
+  margin-top: 1rem;
+  font-size: 14px;
+  font-family: 'Inter', sans-serif;
+}
+

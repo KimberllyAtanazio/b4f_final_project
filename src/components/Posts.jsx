@@ -20,7 +20,7 @@ export default function ListPosts({ posts, search }) {
 
   return (
     <div className={styles.cardPosts}>
-      <p className={styles.smallTitle}>últimos posts</p>
+      <p className={styles.smallTitle}>Latest posts</p>
       {sortedPosts && sortedPosts.length > 0 ? (
         sortedPosts.map((post) => (
           <div key={post.id} className={styles.cardContent}>

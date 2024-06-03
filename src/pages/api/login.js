@@ -15,7 +15,6 @@ export default async function handler(req, res) {
         return res.status(401).json({ message: 'Email ou password inválido.' });
       }
 
-      console.log('djkshakdjhskjh');
       const isPasswordValid = await checkPassword(password, email);
       if (!isPasswordValid) {
         return res.status(401).json({ message: 'Password inválida.' });

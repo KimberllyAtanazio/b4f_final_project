@@ -14,8 +14,8 @@ export default function Profile() {
             />
           </div>
 
-          <p className={styles.profileName}>Maria</p>
-          <p className={styles.profileEmail}>maria@gmail.com</p>
+          <p className={styles.profileName}>Hey, traveler girl!</p>
+          <p className={styles.profileEmail}>What's the next trip?</p>
         </div>
         <div className={styles.profileInfo}>
           <div className={styles.profileInfoData}>
