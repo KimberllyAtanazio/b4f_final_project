@@ -2,8 +2,8 @@ export function Country({ color }) {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
-      width="20rem"
-      height="20rem"
+      width="3rem"
+      height="3rem"
       viewBox="0 0 30 30"
       fill="none"
     >

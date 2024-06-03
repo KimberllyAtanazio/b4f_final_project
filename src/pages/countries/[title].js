@@ -5,9 +5,14 @@ import { DetailCardIcon } from '@/../public/icons/DetailCardIcon';
 import { LocationIcon } from '@/../public/icons/LocationIcon';
 import { BackIcon } from '@/../public/icons/BackIcon';
 import NavBar from '@/components/NavBar';
+import Image from 'next/image';
+import IconFavorite from "@/../public/icons/FavoriteIcon.png";
+import IconUnFavorite from "@/../public/icons/UnfavoriteIcon.png";
+import { useFavoriteContext } from "@/contexts/FavoriteContext";
 import Loading from '@/components/Loading';
 
 export default function DetailsCountry() {
+  const { favorite, addFavorite } = useFavoriteContext();
   const router = useRouter();
   const { title } = router.query;
 
@@ -21,15 +26,33 @@ export default function DetailsCountry() {
     return <Loading />;
   }
 
+  const isFavorite = favorite.some((fav) => fav.id === pais.id);
+  const icone = !isFavorite ? IconUnFavorite : IconFavorite;
+
+  const handleFavoriteClick = () => {
+    addFavorite(pais);
+  };
+
   return (
     <div className={styles.container}>
       <div>
-          <button
-            className={styles.backButton}
-            onClick={() => router.back()}
-          >
-            <BackIcon />
-          </button>
+        <figure className={styles.favoriteIcon}>
+          <Image
+            src={icone}
+            alt="Icon to favorite"
+            width={44}
+            height={44}
+            onClick={handleFavoriteClick}
+            style={{ cursor: 'pointer' }}
+          />
+        </figure>
+        
+        <button
+          className={styles.backButton}
+          onClick={() => router.back()}
+        >
+          <BackIcon />
+        </button>
         <img
           src={`/images/${pais.imageName}`}
           alt={pais.title}

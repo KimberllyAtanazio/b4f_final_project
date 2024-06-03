@@ -1,5 +1,8 @@
 import styles from '@/styles/Profile.module.css';
 import ShareLocationButton from './ShareLocationButton';
+import Bookmarked from './Bookmarked';
+import Link from 'next/link';
+
 
 export default function Profile() {
   return (
@@ -52,34 +55,21 @@ export default function Profile() {
       </div>
 
       <div className={styles.profileOptions}>
-        <div className={styles.bookmarkedDiv}>
-          <div className={styles.bookmarkedIcon}>
-            <img
-              src={'/icons/bookmarked-icon.svg'}
-              alt="User Icon"
-              className={styles.icon}
-            />
-          </div>
-          <div className={styles.bookmarkedText}>Bookmarked</div>
 
-          <div className={styles.rightArrow}>
-            <img
-              src={'/icons/arrow-right-icon.svg'}
-              alt="arrow Icon"
-              className={styles.icon}
-            />
-          </div>
-        </div>
 
         <div className={styles.previousTripsDiv}>
           <div className={styles.bookmarkedIcon}>
             <img
-              src={'/icons/trips-icon.svg'}
+              src={'/icons/bookmarked-icon.svg'}
               alt="trips Icon"
               className={styles.icon}
             />
           </div>
-          <div className={styles.tripsDiv}>Previous Trips</div>
+          <div>
+          <Link href="/profile/termsconditions" className={styles.bookmarkedLink}>
+            Terms and Conditions
+          </Link>
+          </div>
           <div className={styles.rightArrow}>
             <img
               src={'/icons/arrow-right-icon.svg'}
@@ -97,7 +87,11 @@ export default function Profile() {
               className={styles.icon}
             />
           </div>
-          <div className={styles.settingsTextDiv}>Settings</div>
+          <div>
+          <Link href="/profile/privacy" className={styles.bookmarkedLink}>
+          Privacy Policy
+          </Link>
+          </div>
           <div className={styles.rightArrow}>
             <img
               src={'/icons/arrow-right-icon.svg'}
@@ -107,6 +101,11 @@ export default function Profile() {
           </div>
         </div>
       </div>
+
+      <div className={styles.developed}>
+        <p>© Developed by: <span>Ana Carolina Moura, Eunice Gordon, Kimberlly Atanazio & Selma Marega.</span> </p>
+      </div>
+
     </div>
   );
 }

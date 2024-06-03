@@ -5,6 +5,7 @@ import { Country } from '@/../public/icons/Country';
 import { PassportIcon } from '@/../public/icons/PassportIcon';
 import { CommunityIcon } from '@/../public/icons/CommunityIcon';
 import { ProfileIcon } from '@/../public/icons/ProfileIcon';
+import { Favorite } from '@/../public/icons/FavoriteIcon';
 
 export default function NavBar() {
   return (
@@ -13,16 +14,20 @@ export default function NavBar() {
         <ProfileIcon color={'#3C1E42'} />
       </Link>
 
+      <Link href="/community" className={styles.button}>
+        <CommunityIcon color={'#3C1E42'} />
+      </Link>
+      
+      <Link href="/passport" className={styles.circle}>
+        <PassportIcon color={'white'} />
+      </Link>
+
       <Link href="/country" className={styles.button}>
         <Country color={'#3C1E42'} />
       </Link>
 
-      <Link href="/community" className={styles.button}>
-        <CommunityIcon color={'#3C1E42'} />
-      </Link>
-
-      <Link href="/passport" className={styles.circle}>
-        <PassportIcon color={'white'} />
+      <Link href="/bookmarked" className={styles.button}>
+        <Favorite color={'#3C1E42'} />
       </Link>
     </div>
   );

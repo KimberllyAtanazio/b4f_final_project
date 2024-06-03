@@ -34,12 +34,16 @@ export default () => {
         <Header />
       </div>
       <div className={styles.searchForm}>
+        <div>
         <SearchBar
           search={pesquisa}
           setSearch={setPesquisa}
           onSearchValues={handleSearch}
         />
+        </div>
+        <div className={styles.filter}>
         <FilterButton onChange={handleFiltroChange} />
+        </div>
       </div>
       <div className={styles.countryCard}>
         {paisesFiltrados.map((p, index) => (

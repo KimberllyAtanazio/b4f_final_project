@@ -104,10 +104,9 @@
 .settingsDiv {
   display: flex;
   font-size: 16px;
-
+  justify-content: space-between;
   width: 320px;
   height: 63px;
-  justify-content: left;
   align-items: center;
   padding: 10px;
   padding-right:15px;
@@ -122,21 +121,43 @@
 
 .rightArrow {
   display: flex;
-  justify-content: right;
+  justify-self: right;
   padding-right: 30px;
   width: 24px;
 }
 
-.bookmarkedText,
 .tripsDiv,
 .settingsTextDiv {
   display: flex;
   font-size: 16px;
-  width: 334px;
   height: 63px;
-  justify-content: left;
   align-items: center;
   padding: 10px;
   margin-left: 8px;
   margin-right: 10px;
+}
+
+.bookmarkedText{
+  display: flex;
+  align-items: center;
+  font-size: 16px;
+  margin-left: 0.8rem;
+}
+
+.bookmarkedLink {
+  text-decoration: none;
+  color: inherit;
+}
+
+.developed {
+  font-size: 1.4rem;
+  margin: 3rem;
+  color: #3c1e42;
+  text-align: center;
+  margin-top: 5rem;
+  padding-bottom: 10rem;
+}
+
+.developed span {
+  font-weight: 600;
 }
