@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import styles from '../styles/LoginForm.module.css';
-import SignUp from './SignupForm';
+import SignUp from '@/components/SignUpForm';
 import { useRouter } from 'next/router';
 
 function LoginForm({ onLogin }) {
