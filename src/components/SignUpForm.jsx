@@ -3,7 +3,7 @@ import styles from '../styles/SignUpForm.module.css';
 import LoginForm from './LoginForm';
 import { useRouter } from 'next/router';
 
-function SignupForm() {
+export default function SignUpForm() {
   const [username, setUsername] = useState('');
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
@@ -36,16 +36,16 @@ function SignupForm() {
 
       if (res.ok) {
         // Se o usuário for criado com sucesso, define a mensagem de sucesso
-        setSuccess('Signup successful! You will be redirected to your profile.');
+        setSuccess(
+          'Signup successful! You will be redirected to your profile.'
+        );
         // Limpa os campos do formulário
         setUsername('');
         setEmail('');
         setPassword('');
 
         // Redireciona para a página de perfil após um curto atraso
-        setTimeout(() =>
-          router.push('/profile')
-          , 2000) // 2 segundos de atraso
+        setTimeout(() => router.push('/profile'), 2000); // 2 segundos de atraso
       } else {
         // Se ocorrer algum erro durante a criação do usuário, defina a mensagem de erro
         setError(data.message || 'An error occurred. Please try again.');
@@ -93,7 +93,8 @@ function SignupForm() {
           Sign Up
         </button>
         {error && <p className={styles.error}>{error}</p>}
-        {success && <p className={styles.success}>{success}</p>} {/* Exibe a mensagem de sucesso */}
+        {success && <p className={styles.success}>{success}</p>}{' '}
+        {/* Exibe a mensagem de sucesso */}
         <p className={styles.loginToggle}>
           Already have an account?{' '}
           <span onClick={handleLogin} className={styles.toggleLink}>
@@ -105,5 +106,3 @@ function SignupForm() {
     </div>
   );
 }
-
-export default SignupForm;

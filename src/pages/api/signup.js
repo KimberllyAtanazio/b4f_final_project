@@ -1,4 +1,4 @@
-import { createUser } from '../services/userServices';
+import { createUser } from '@/services/userServices';
 
 export default async function handler(req, res) {
   if (req.method === 'POST') {

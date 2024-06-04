@@ -1,4 +1,4 @@
-import { insertUser, findUserByEmail } from '../data/usersData';
+import { insertUser, findUserByEmail } from '@/data/usersData';
 
 export async function getUserByEmail(email) {
   const result = await findUserByEmail(email);

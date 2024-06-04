@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import styles from '../styles/LoginForm.module.css';
-import SignUp from '@/components/SignUpForm';
+import SignUpForm from './SignUpForm';
 import { useRouter } from 'next/router';
 
 function LoginForm({ onLogin }) {
@@ -70,7 +70,7 @@ function LoginForm({ onLogin }) {
           </span>
         </p>
       </form>
-      {showSignup && <SignUp />}
+      {showSignup && <SignUpForm />}
     </div>
   );
 }

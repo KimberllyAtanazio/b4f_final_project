@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import Buttons from '../components/ButtonsFP';
 import LoginForm from '../components/LoginForm';
-import SignupForm from '../components/SignupForm';
+import SignUpForm from '../components/SignUpForm';
 
 function FirstPage() {
   const [showLogin, setShowLogin] = useState(false);
@@ -24,7 +24,7 @@ function FirstPage() {
         onSignupClick={handleSignupClick}
       />
       {showLogin && <LoginForm />}
-      {showSignup && <SignupForm />}
+      {showSignup && <SignUpForm />}
     </div>
   );
 }
